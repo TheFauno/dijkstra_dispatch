@@ -1,32 +1,21 @@
-import xml.etree.ElementTree as ET
-from models.modules import edges as ed
+from modules import edges as ed
 
 class Graph:
 
     edges = ()
-    shovels = ()
-    unloads = ()
+    # shovel, unload
+    stationsPairs = () 
 
     def __init__(self):
         self.edges = self.readEdges()
-        self.stationsPair = self.getPairStations()
+        self.stationsPairs = self.getStationsPairs()
 
-    def getPairStations(self):
-        return list()
+    def getStationsPairs(self):
+        return ed.getStationsPairs()
 
-    def readEdges(self):
-        edges = ()
-        tree = ET.parse('files/caminos_info.xml')
-        root = tree.getroot()
+    def readEdges(self):        
+        return ed.readEdges()
 
-        for road in root:
-            edge = {}
-            edge["name"] = road.attrib["ID"]
-            edge["startVertex"] = road.find("startingAt").attrib["resource"].replace("-","_").replace(".","")
-            edge["endVertex"] = road.find("directedTo").attrib["resource"].replace("-","_").replace(".","")
-            edge["distance"] = road.find("edgeLength").text
-            edge["visited"] = "No"
-            edge["predecessor"] = ""
-            edges = edges + (edge,)
-        
-        return edges
+    def findShortestPathDistance(self):
+        shortesPathsDistance = map( ed.findShortestPathDistance, list(self.stationsPairs, self.edges) )
+        print(shortesPathsDistance)
