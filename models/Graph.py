@@ -1,5 +1,5 @@
 import xml.etree.ElementTree as ET
-import modules.edges as ed
+from models.modules import edges as ed
 
 class Graph:
 
@@ -9,18 +9,14 @@ class Graph:
 
     def __init__(self):
         self.edges = self.readEdges()
-        self.shovels = self.readShovels()
-        self.unloads = self.readUnloads()
+        self.stationsPair = self.getPairStations()
 
-    def readShovels(self):
-        pass
-
-    def readUnloads(self):
-        pass
+    def getPairStations(self):
+        return list()
 
     def readEdges(self):
         edges = ()
-        tree = ET.parse('caminos_info.xml')
+        tree = ET.parse('files/caminos_info.xml')
         root = tree.getroot()
 
         for road in root:

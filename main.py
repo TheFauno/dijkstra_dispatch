@@ -1,4 +1,4 @@
-from Graph import Graph
+from models.Graph import Graph
 
 graph = Graph()
 print(graph.edges)
