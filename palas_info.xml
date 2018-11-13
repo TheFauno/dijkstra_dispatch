@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+
+<shovels>
+	<Shovel ID="CF04">
+        <positionedAt resource="UB1_4390_EST"/>
+        <transportationCapacity datatype="float">36</transportationCapacity>
+        <loadRate datatype="integer">326</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Botadero1"/>
+    </Shovel>
+
+    <Shovel ID="CF06">
+        <positionedAt resource="RS1_STOCKCR04_SME"/>
+        <transportationCapacity datatype="float">36</transportationCapacity>
+        <loadRate datatype="integer">307</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Chancador1"/>
+    </Shovel>
+
+    <Shovel ID="PA08">
+        <positionedAt resource="RF10A_4390_1032_1"/>
+        <transportationCapacity datatype="float">73</transportationCapacity>
+        <loadRate datatype="integer">76</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Botadero2"/>
+    </Shovel>
+
+    <Shovel ID="PA09">
+        <positionedAt resource="RF9B_4135_902_1"/>
+        <transportationCapacity datatype="float">73</transportationCapacity>
+        <loadRate datatype="integer">106</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Stock1"/>
+    </Shovel>
+
+    <Shovel ID="PA10">
+        <positionedAt resource="RF11_4405_1124_1"/>
+        <transportationCapacity datatype="float">73</transportationCapacity>
+        <loadRate datatype="integer">110</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Botadero3"/>
+    </Shovel>
+
+    <Shovel ID="PA11">
+        <positionedAt resource="RF10A_4390_1025_1"/>
+        <transportationCapacity datatype="float">74</transportationCapacity>
+        <loadRate datatype="integer">71</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Botadero2"/>
+    </Shovel>
+
+    <Shovel ID="PA13">
+        <positionedAt resource="RF10A_4375_1005_1"/>
+        <transportationCapacity datatype="float">74</transportationCapacity>
+        <loadRate datatype="integer">86</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Botadero2"/>
+    </Shovel>
+
+    <Shovel ID="PA14">
+        <positionedAt resource="RF10A_4390_1018_1"/>
+        <transportationCapacity datatype="float">74</transportationCapacity>
+        <loadRate datatype="integer">73</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Botadero3"/>
+    </Shovel>
+
+    <Shovel ID="PA15">
+        <positionedAt resource="RF9B_4135_905_1"/>
+        <transportationCapacity datatype="float">36</transportationCapacity>
+        <loadRate datatype="integer">219</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Stock1"/>
+    </Shovel>
+
+    <Shovel ID="PA16">
+        <positionedAt resource="RS1_PARINA_SME"/>
+        <transportationCapacity datatype="float">36</transportationCapacity>
+        <loadRate datatype="integer">193</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Stock1"/>
+    </Shovel>
+
+    <Shovel ID="PA21">
+        <positionedAt resource="RF10A_4390_1028_1"/>
+        <transportationCapacity datatype="float">79</transportationCapacity>
+        <loadRate datatype="integer">97</loadRate>
+        <digRate datatype="integer">0</digRate>
+        <currentLoad datatype="float">0</currentLoad>
+        <idealAmount datatype="integer">0</idealAmount>
+        <destination resource="Botadero3"/>
+    </Shovel>
+</shovels>
