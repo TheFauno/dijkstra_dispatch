@@ -1,0 +1,3064 @@
+<?xml version="1.0"?>
+
+<points>
+        <!-- Nodes / Locations this is the definition of points-->
+    <vertex about="NAVE05">
+    	<latitude datatype="float">-20.9586935449994</latitude>
+	    <longitude datatype="float">-68.7081449538794</longitude>
+    </vertex>
+
+    <vertex about="NAVE06">
+    	<latitude datatype="float">-20.9586037115414</latitude>
+	<longitude datatype="float">-68.70808694091</longitude>
+    </vertex>
+
+    <vertex about="NAVE07">
+    	<latitude datatype="float">-20.958531844775</latitude>
+	<longitude datatype="float">-68.7080289279406</longitude>
+    </vertex>
+
+    <vertex about="NAVE08">
+    	<latitude datatype="float">-20.9584509946628</latitude>
+	<longitude datatype="float">-68.707961246143</longitude>
+    </vertex>
+
+    <vertex about="NAVE09">
+    	<latitude datatype="float">-20.9583611612048</latitude>
+	<longitude datatype="float">-68.7078645578607</longitude>
+    </vertex>
+
+    <vertex about="NAVE10">
+    	<latitude datatype="float">-20.9591786456726</latitude>
+	<longitude datatype="float">-68.707709856609</longitude>
+    </vertex>
+
+    <vertex about="NAVE11">
+    	<latitude datatype="float">-20.959115762252</latitude>
+	<longitude datatype="float">-68.7076615124678</longitude>
+    </vertex>
+
+    <vertex about="NAVE12">
+    	<latitude datatype="float">-20.9590618621772</latitude>
+	<longitude datatype="float">-68.7076034994984</longitude>
+    </vertex>
+
+    <vertex about="NAVE13">
+    	<latitude datatype="float">-20.9590079621024</latitude>
+	<longitude datatype="float">-68.7075358177008</longitude>
+    </vertex>
+
+    <vertex about="NAVE14">
+    	<latitude datatype="float">-20.9589450786818</latitude>
+	<longitude datatype="float">-68.7074778047314</longitude>
+    </vertex>
+
+    <vertex about="NAVE15">
+    	<latitude datatype="float">-20.9588821952612</latitude>
+	<longitude datatype="float">-68.707419791762</longitude>
+    </vertex>
+
+    <vertex about="NAVE16">
+    	<latitude datatype="float">-20.9588193118406</latitude>
+	<longitude datatype="float">-68.7073617787926</longitude>
+    </vertex>
+
+    <vertex about="NAVE17">
+    	<latitude datatype="float">-20.9587474450742</latitude>
+	<longitude datatype="float">-68.7073134346515</longitude>
+    </vertex>
+
+    <vertex about="NAVE18">
+    	<latitude datatype="float">-20.9586755783078</latitude>
+	<longitude datatype="float">-68.7072457528539</longitude>
+    </vertex>
+
+    <vertex about="NR1000">
+    	<latitude datatype="float">-20.9801547581158</latitude>
+	<longitude datatype="float">-68.7098563364765</longitude>
+    </vertex>
+
+    <vertex about="NR1001">
+    	<latitude datatype="float">-20.9821849942666</latitude>
+	<longitude datatype="float">-68.7188676843886</longitude>
+    </vertex>
+
+    <vertex about="NR1003">
+    	<latitude datatype="float">-20.9830743455009</latitude>
+	<longitude datatype="float">-68.7076421748114</longitude>
+    </vertex>
+
+    <vertex about="NR1004">
+    	<latitude datatype="float">-20.9813495431072</latitude>
+	<longitude datatype="float">-68.6959718991355</longitude>
+    </vertex>
+
+    <vertex about="NR1005">
+    	<latitude datatype="float">-20.9798403410128</latitude>
+	<longitude datatype="float">-68.694115484115</longitude>
+    </vertex>
+
+    <vertex about="NR1006">
+    	<latitude datatype="float">-20.9823107611078</latitude>
+	<longitude datatype="float">-68.6977122882172</longitude>
+    </vertex>
+
+    <vertex about="NR1007">
+    	<latitude datatype="float">-20.9830563788093</latitude>
+	<longitude datatype="float">-68.6998007551153</longitude>
+    </vertex>
+
+    <vertex about="NR1008">
+    	<latitude datatype="float">-20.9831012955383</latitude>
+	<longitude datatype="float">-68.6959042173379</longitude>
+    </vertex>
+
+    <vertex about="NR1009">
+    	<latitude datatype="float">-20.9805320586394</latitude>
+	<longitude datatype="float">-68.7190900674379</longitude>
+    </vertex>
+
+    <vertex about="NR1010">
+    	<latitude datatype="float">-20.9868204006995</latitude>
+	<longitude datatype="float">-68.7069266815222</longitude>
+    </vertex>
+
+    <vertex about="NR1011">
+    	<latitude datatype="float">-20.9815651434064</latitude>
+	<longitude datatype="float">-68.6886816026486</longitude>
+    </vertex>
+
+    <vertex about="NR1012">
+    	<latitude datatype="float">-20.9865688670171</latitude>
+	<longitude datatype="float">-68.7111906347725</longitude>
+    </vertex>
+
+    <vertex about="NR1013">
+    	<latitude datatype="float">-20.9819963440048</latitude>
+	<longitude datatype="float">-68.6913308615842</longitude>
+    </vertex>
+
+    <vertex about="NR1014">
+    	<latitude datatype="float">-20.9838109798565</latitude>
+	<longitude datatype="float">-68.6937867439551</longitude>
+    </vertex>
+
+    <vertex about="NR1015">
+    	<latitude datatype="float">-20.9816010767896</latitude>
+	<longitude datatype="float">-68.7126409590073</longitude>
+    </vertex>
+
+    <vertex about="NR1016">
+    	<latitude datatype="float">-20.9817717603598</latitude>
+	<longitude datatype="float">-68.7083286616158</longitude>
+    </vertex>
+
+    <vertex about="NR1017">
+    	<latitude datatype="float">-20.9876199184757</latitude>
+	<longitude datatype="float">-68.7024306763944</longitude>
+    </vertex>
+
+    <vertex about="NR1018">
+    	<latitude datatype="float">-20.9867215838957</latitude>
+	<longitude datatype="float">-68.6993269825319</longitude>
+    </vertex>
+
+    <vertex about="NR1019">
+    	<latitude datatype="float">-20.9847721978571</latitude>
+	<longitude datatype="float">-68.6949566721711</longitude>
+    </vertex>
+
+    <vertex about="NR1020">
+    	<latitude datatype="float">-20.9830114620803</latitude>
+	<longitude datatype="float">-68.7161797501401</longitude>
+    </vertex>
+
+    <vertex about="NR259">
+    	<latitude datatype="float">-20.9597176464206</latitude>
+	<longitude datatype="float">-68.7306733236597</longitude>
+    </vertex>
+
+    <vertex about="NR260">
+    	<latitude datatype="float">-20.9707222450257</latitude>
+	<longitude datatype="float">-68.7361748869237</longitude>
+    </vertex>
+
+    <vertex about="NR261">
+    	<latitude datatype="float">-20.9699496772869</latitude>
+	<longitude datatype="float">-68.732935829466</longitude>
+    </vertex>
+
+    <vertex about="NR262">
+    	<latitude datatype="float">-20.964550686461</latitude>
+	<longitude datatype="float">-68.7149614777829</longitude>
+    </vertex>
+
+    <vertex about="NR263">
+    	<latitude datatype="float">-20.964056602442</latitude>
+	<longitude datatype="float">-68.7107071933609</longitude>
+    </vertex>
+
+    <vertex about="NR264">
+    	<latitude datatype="float">-20.9876378851673</latitude>
+	<longitude datatype="float">-68.7355560819168</longitude>
+    </vertex>
+
+    <vertex about="NR266">
+    	<latitude datatype="float">-20.9527375867339</latitude>
+	<longitude datatype="float">-68.7199215866659</longitude>
+    </vertex>
+
+    <vertex about="NR267">
+    	<latitude datatype="float">-20.979382190377</latitude>
+	<longitude datatype="float">-68.7221744236439</longitude>
+    </vertex>
+
+    <vertex about="NR268">
+    	<latitude datatype="float">-20.9859579995027</latitude>
+	<longitude datatype="float">-68.7344538354984</longitude>
+    </vertex>
+
+    <vertex about="NR269">
+    	<latitude datatype="float">-20.9725817976063</latitude>
+	<longitude datatype="float">-68.7405161907998</longitude>
+    </vertex>
+
+    <vertex about="NR270">
+    	<latitude datatype="float">-20.9677218075285</latitude>
+	<longitude datatype="float">-68.7372191203727</longitude>
+    </vertex>
+
+    <vertex about="NR271">
+    	<latitude datatype="float">-20.9607956479166</latitude>
+	<longitude datatype="float">-68.7184422559464</longitude>
+    </vertex>
+
+    <vertex about="NR272">
+    	<latitude datatype="float">-20.9860568163065</latitude>
+	<longitude datatype="float">-68.7329261606378</longitude>
+    </vertex>
+
+    <vertex about="NR273">
+    	<latitude datatype="float">-20.981762777014</latitude>
+	<longitude datatype="float">-68.7271248636986</longitude>
+    </vertex>
+
+    <vertex about="NR274">
+    	<latitude datatype="float">-20.960508180851</latitude>
+	<longitude datatype="float">-68.7137432054257</longitude>
+    </vertex>
+
+    <vertex about="NR275">
+    	<latitude datatype="float">-20.9637511686848</latitude>
+	<longitude datatype="float">-68.7375188540479</longitude>
+    </vertex>
+
+    <vertex about="NR276">
+    	<latitude datatype="float">-20.9839996301183</latitude>
+	<longitude datatype="float">-68.7297354473212</longitude>
+    </vertex>
+
+    <vertex about="NR634">
+    	<latitude datatype="float">-20.9746928838694</latitude>
+	<longitude datatype="float">-68.6974802363397</longitude>
+    </vertex>
+
+    <vertex about="NR635">
+    	<latitude datatype="float">-20.9732285985039</latitude>
+	<longitude datatype="float">-68.6984374503346</longitude>
+    </vertex>
+
+    <vertex about="NR636">
+    	<latitude datatype="float">-20.9719799134377</latitude>
+	<longitude datatype="float">-68.6998007551153</longitude>
+    </vertex>
+
+    <vertex about="NR637">
+    	<latitude datatype="float">-20.9708120784837</latitude>
+	<longitude datatype="float">-68.7026820659284</longitude>
+    </vertex>
+
+    <vertex about="NR640">
+    	<latitude datatype="float">-20.9739831995511</latitude>
+	<longitude datatype="float">-68.6998684369129</longitude>
+    </vertex>
+
+    <vertex about="NR641">
+    	<latitude datatype="float">-20.974935434206</latitude>
+	<longitude datatype="float">-68.696745405394</longitude>
+    </vertex>
+
+    <vertex about="NR643">
+    	<latitude datatype="float">-20.9700754441281</latitude>
+	<longitude datatype="float">-68.6994816837837</longitude>
+    </vertex>
+
+    <vertex about="NR644">
+    	<latitude datatype="float">-20.9684853919215</latitude>
+	<longitude datatype="float">-68.701164059896</longitude>
+    </vertex>
+
+    <vertex about="NR645">
+    	<latitude datatype="float">-20.9668144896027</latitude>
+	<longitude datatype="float">-68.7030784878859</longitude>
+    </vertex>
+
+    <vertex about="NR650">
+    	<latitude datatype="float">-20.9720787302415</latitude>
+	<longitude datatype="float">-68.7062788700307</longitude>
+    </vertex>
+
+    <vertex about="NR700">
+    	<latitude datatype="float">-20.9947886284242</latitude>
+	<longitude datatype="float">-68.6913792057253</longitude>
+    </vertex>
+
+    <vertex about="NR701">
+    	<latitude datatype="float">-21.0014452876621</latitude>
+	<longitude datatype="float">-68.6929842312118</longitude>
+    </vertex>
+
+    <vertex about="NR702">
+    	<latitude datatype="float">-21.0109047507896</latitude>
+	<longitude datatype="float">-68.7018892220134</longitude>
+    </vertex>
+
+    <vertex about="NR703">
+    	<latitude datatype="float">-21.012548703071</latitude>
+	<longitude datatype="float">-68.7048478834524</longitude>
+    </vertex>
+
+    <vertex about="NR704">
+    	<latitude datatype="float">-21.0094674154616</latitude>
+	<longitude datatype="float">-68.7129116861977</longitude>
+    </vertex>
+
+    <vertex about="NR705">
+    	<latitude datatype="float">-21.0110035675934</latitude>
+	<longitude datatype="float">-68.7100207065564</longitude>
+    </vertex>
+
+    <vertex about="NR706">
+    	<latitude datatype="float">-21.0126565032206</latitude>
+	<longitude datatype="float">-68.7104654726551</longitude>
+    </vertex>
+
+    <vertex about="NU52">
+    	<latitude datatype="float">-20.9745491503366</latitude>
+	<longitude datatype="float">-68.6164071116153</longitude>
+    </vertex>
+
+    <vertex about="NU53">
+    	<latitude datatype="float">-20.962035349637</latitude>
+	<longitude datatype="float">-68.6047948489088</longitude>
+    </vertex>
+
+    <vertex about="NU55">
+    	<latitude datatype="float">-20.9596008629252</latitude>
+	<longitude datatype="float">-68.6073860948749</longitude>
+    </vertex>
+
+    <vertex about="NU56">
+    	<latitude datatype="float">-20.9830114620803</latitude>
+	<longitude datatype="float">-68.6747101458536</longitude>
+    </vertex>
+
+    <vertex about="NU57">
+    	<latitude datatype="float">-20.9848799980067</latitude>
+	<longitude datatype="float">-68.6724379712191</longitude>
+    </vertex>
+
+    <vertex about="NU58">
+    	<latitude datatype="float">-20.9869102341575</latitude>
+	<longitude datatype="float">-68.6325830612472</longitude>
+    </vertex>
+
+    <vertex about="NU59">
+    	<latitude datatype="float">-20.9839547133893</latitude>
+	<longitude datatype="float">-68.618563260311</longitude>
+    </vertex>
+
+    <vertex about="NU60">
+    	<latitude datatype="float">-20.9884104529061</latitude>
+	<longitude datatype="float">-68.6210094738537</longitude>
+    </vertex>
+
+    <vertex about="NU61">
+    	<latitude datatype="float">-20.9768039701324</latitude>
+	<longitude datatype="float">-68.6181088253841</longitude>
+    </vertex>
+
+    <vertex about="NU62">
+    	<latitude datatype="float">-20.9698418771373</latitude>
+	<longitude datatype="float">-68.6125782556355</longitude>
+    </vertex>
+
+    <vertex about="NU63">
+    	<latitude datatype="float">-20.9654849544242</latitude>
+	<longitude datatype="float">-68.6086913866862</longitude>
+    </vertex>
+
+    <vertex about="NU64">
+    	<latitude datatype="float">-20.9602476638228</latitude>
+	<longitude datatype="float">-68.6029867780294</longitude>
+    </vertex>
+
+    <vertex about="NU65">
+    	<latitude datatype="float">-20.999019784296</latitude>
+	<longitude datatype="float">-68.623358999114</longitude>
+    </vertex>
+
+    <vertex about="NU66">
+    	<latitude datatype="float">-20.9588193118406</latitude>
+	<longitude datatype="float">-68.6115533598429</longitude>
+    </vertex>
+
+    <vertex about="NU67">
+    	<latitude datatype="float">-20.9590888122146</latitude>
+	<longitude datatype="float">-68.6192110718025</longitude>
+    </vertex>
+
+    <vertex about="NU68">
+    	<latitude datatype="float">-20.9581096275224</latitude>
+	<longitude datatype="float">-68.6235717133351</longitude>
+    </vertex>
+
+    <vertex about="NU69">
+    	<latitude datatype="float">-20.9544893391649</latitude>
+	<longitude datatype="float">-68.6271588486092</longitude>
+    </vertex>
+
+    <vertex about="NU70">
+    	<latitude datatype="float">-20.9499886829191</latitude>
+	<longitude datatype="float">-68.6274102381432</longitude>
+    </vertex>
+
+    <vertex about="NU71">
+    	<latitude datatype="float">-20.9874761849429</latitude>
+	<longitude datatype="float">-68.6317128667064</longitude>
+    </vertex>
+
+    <vertex about="NU72">
+    	<latitude datatype="float">-20.9464761947112</latitude>
+	<longitude datatype="float">-68.6282707638558</longitude>
+    </vertex>
+
+    <vertex about="NU73">
+    	<latitude datatype="float">-20.9600679969068</latitude>
+	<longitude datatype="float">-68.5987711689203</longitude>
+    </vertex>
+
+    <vertex about="NU74">
+    	<latitude datatype="float">-20.9546869727725</latitude>
+	<longitude datatype="float">-68.5887445940439</longitude>
+    </vertex>
+
+    <vertex about="NU75">
+    	<latitude datatype="float">-20.9578491104942</latitude>
+	<longitude datatype="float">-68.5936853652704</longitude>
+    </vertex>
+
+    <vertex about="NU77">
+    	<latitude datatype="float">-20.9989838509128</latitude>
+	<longitude datatype="float">-68.6193077600849</longitude>
+    </vertex>
+
+    <vertex about="NU81">
+    	<latitude datatype="float">-20.95740892655</latitude>
+	<longitude datatype="float">-68.5941978131666</longitude>
+    </vertex>
+
+    <vertex about="NU82">
+    	<latitude datatype="float">-20.9539054216879</latitude>
+	<longitude datatype="float">-68.5893730678789</longitude>
+    </vertex>
+
+    <vertex about="NU83">
+    	<latitude datatype="float">-20.9476350463194</latitude>
+	<longitude datatype="float">-68.5792207982355</longitude>
+    </vertex>
+
+    <vertex about="P1_UJI">
+    	<latitude datatype="float">-21.0012925707835</latitude>
+	<longitude datatype="float">-68.6341204049361</longitude>
+    </vertex>
+
+    <vertex about="P2_SEMIMOVIL">
+    	<latitude datatype="float">-20.9609303981036</latitude>
+	<longitude datatype="float">-68.7074874735597</longitude>
+    </vertex>
+
+    <vertex about="P3_SEMIMOVIL">
+    	<latitude datatype="float">-20.9698867938663</latitude>
+	<longitude datatype="float">-68.7300641874811</longitude>
+    </vertex>
+
+    <vertex about="P4_SEMIMOVIL">
+    	<latitude datatype="float">-20.9644967863862</latitude>
+	<longitude datatype="float">-68.7135401600328</longitude>
+    </vertex>
+
+    <vertex about="PLAT_BASE_UJINA">
+    	<latitude datatype="float">-20.9900364384959</latitude>
+	<longitude datatype="float">-68.629489036213</longitude>
+    </vertex>
+
+    <vertex about="PLAT_CAPELLA">
+    	<latitude datatype="float">-20.9752229012716</latitude>
+	<longitude datatype="float">-68.7173110030433</longitude>
+    </vertex>
+
+    <vertex about="PLAT_COBRE">
+    	<latitude datatype="float">-20.9605800476174</latitude>
+	<longitude datatype="float">-68.7338060240069</longitude>
+    </vertex>
+
+    <vertex about="RS3-SALMON_OXA">
+    	<latitude datatype="float">-20.9885002863641</latitude>
+	<longitude datatype="float">-68.7364552829424</longitude>
+    </vertex>
+
+    <vertex about="RS3-TOYO_LIX">
+    	<latitude datatype="float">-20.992911109152</latitude>
+	<longitude datatype="float">-68.735440055978</longitude>
+    </vertex>
+
+    <vertex about="RS4-4600_OXB">
+    	<latitude datatype="float">-20.982301777762</latitude>
+	<longitude datatype="float">-68.720259995654</longitude>
+    </vertex>
+
+    <vertex about="RS4-CONDOR_SAM">
+    	<latitude datatype="float">-20.9567621256523</latitude>
+	<longitude datatype="float">-68.7289812787191</longitude>
+    </vertex>
+
+    <vertex about="RS5-4600_OXB">
+    	<latitude datatype="float">-20.9828407785101</latitude>
+	<longitude datatype="float">-68.7246303060148</longitude>
+    </vertex>
+
+    <vertex about="SB1-NANDU_EST">
+    	<latitude datatype="float">-21.0128721035198</latitude>
+	<longitude datatype="float">-68.7120704981416</longitude>
+    </vertex>
+
+    <vertex about="SI1-ROSARIOSUR_EST">
+    	<latitude datatype="float">-21.0121085191268</latitude>
+	<longitude datatype="float">-68.7116257320429</longitude>
+    </vertex>
+
+    <vertex about="SR1">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="SR1-4795-104-1">
+    	<latitude datatype="float">-21.0073024291237</latitude>
+	<longitude datatype="float">-68.7125346018967</longitude>
+    </vertex>
+
+    <vertex about="STEPOUT4530">
+    	<latitude datatype="float">-20.9715397294935</latitude>
+	<longitude datatype="float">-68.6962232886695</longitude>
+    </vertex>
+
+    <vertex about="STOCK">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="TALLER">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="TALLER_BAYLAC">
+    	<latitude datatype="float">-20.960059013561</latitude>
+	<longitude datatype="float">-68.7046448380595</longitude>
+    </vertex>
+
+    <vertex about="TALLER_ROSARIO">
+    	<latitude datatype="float">-20.9587923618032</latitude>
+	<longitude datatype="float">-68.7078452202042</longitude>
+    </vertex>
+
+    <vertex about="TALLER_UJINA">
+    	<latitude datatype="float">-20.9829934953887</latitude>
+	<longitude datatype="float">-68.6419231493192</longitude>
+    </vertex>
+
+    <vertex about="UB1-4330TRANQUE_EST">
+    	<latitude datatype="float">-20.9893447208693</latitude>
+	<longitude datatype="float">-68.6157302936391</longitude>
+    </vertex>
+
+    <vertex about="UB1-4390_EST">
+    	<latitude datatype="float">-21.0013285041667</latitude>
+	<longitude datatype="float">-68.6193270977413</longitude>
+    </vertex>
+
+    <vertex about="UB1-4390TRANQUE_EST">
+    	<latitude datatype="float">-20.9969895481452</latitude>
+	<longitude datatype="float">-68.613767521508</longitude>
+    </vertex>
+
+    <vertex about="UB1-BARROS_EST">
+    	<latitude datatype="float">-20.960867514683</latitude>
+	<longitude datatype="float">-68.6019812198933</longitude>
+    </vertex>
+
+    <vertex about="UB1-EMPRESTITO_EST">
+    	<latitude datatype="float">-20.9406729533244</latitude>
+	<longitude datatype="float">-68.6276712965054</longitude>
+    </vertex>
+
+    <vertex about="UB1-EMPTRANQUE1_EST">
+    	<latitude datatype="float">-20.9569148425309</latitude>
+	<longitude datatype="float">-68.6157399624673</longitude>
+    </vertex>
+
+    <vertex about="UB1-EMPTRANQUE2_EST">
+    	<latitude datatype="float">-20.9453532764862</latitude>
+	<longitude datatype="float">-68.6278356665854</longitude>
+    </vertex>
+
+    <vertex about="UB1-MUROTRANQUE_EST">
+    	<latitude datatype="float">-20.9566902588859</latitude>
+	<longitude datatype="float">-68.618563260311</longitude>
+    </vertex>
+
+    <vertex about="UB1-PEBBLE_EST">
+    	<latitude datatype="float">-20.9829306119681</latitude>
+	<longitude datatype="float">-68.6247803168641</longitude>
+    </vertex>
+
+    <vertex about="UB1-TRANQUEBERM_EST">
+    	<latitude datatype="float">-20.9567531423065</latitude>
+	<longitude datatype="float">-68.5943138391054</longitude>
+    </vertex>
+
+    <vertex about="UB1-TRANQUECORON_EST">
+    	<latitude datatype="float">-20.9400710691557</latitude>
+	<longitude datatype="float">-68.5768229288339</longitude>
+    </vertex>
+
+    <vertex about="UB1-TRANQUEESPA_EST">
+    	<latitude datatype="float">-20.9499796995733</latitude>
+	<longitude datatype="float">-68.5812319145077</longitude>
+    </vertex>
+
+    <vertex about="UB1-TRANQUEMURO_EST">
+    	<latitude datatype="float">-20.9567261922691</latitude>
+	<longitude datatype="float">-68.5993512986142</longitude>
+    </vertex>
+
+    <vertex about="UF0">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="UF0-4060-720-1">
+    	<latitude datatype="float">-20.994393361209</latitude>
+	<longitude datatype="float">-68.6355707291709</longitude>
+    </vertex>
+
+    <vertex about="UI1-INPITUJINA_EST">
+    	<latitude datatype="float">-20.9977441491924</latitude>
+	<longitude datatype="float">-68.6238617781821</longitude>
+    </vertex>
+
+    <vertex about="UJINA">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="US1">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="US1-TAMARUGO_SBA">
+    	<latitude datatype="float">-20.9932884096756</latitude>
+	<longitude datatype="float">-68.6153435405098</longitude>
+    </vertex>
+
+    <vertex about="US1-TAMARUGO_SBH">
+    	<latitude datatype="float">-20.990979689805</latitude>
+	<longitude datatype="float">-68.6226144993402</longitude>
+    </vertex>
+
+    <vertex about="US1-TAMARUGO_SBL">
+    	<latitude datatype="float">-20.9952198290226</latitude>
+	<longitude datatype="float">-68.620564707755</longitude>
+    </vertex>
+
+    <vertex about="US2-4335_MIX">
+    	<latitude datatype="float">-20.9919588744972</latitude>
+	<longitude datatype="float">-68.6167261829469</longitude>
+    </vertex>
+
+    <vertex about="US2-4335_OXB">
+    	<latitude datatype="float">-20.9964056306682</latitude>
+	<longitude datatype="float">-68.6233009861446</longitude>
+    </vertex>
+
+    <vertex about="US2-4335_SBH">
+    	<latitude datatype="float">-20.9925338086284</latitude>
+	<longitude datatype="float">-68.616184728566</longitude>
+    </vertex>
+
+    <vertex about="WASH_SHOP">
+    	<latitude datatype="float">-20.9596278129626</latitude>
+	<longitude datatype="float">-68.7050992729864</longitude>
+    </vertex>
+
+    <vertex about="NR277">
+    	<latitude datatype="float">-20.9597356131122</latitude>
+	<longitude datatype="float">-68.7323363621156</longitude>
+    </vertex>
+
+    <vertex about="NR278">
+    	<latitude datatype="float">-20.9633918348528</latitude>
+	<longitude datatype="float">-68.7104944791398</longitude>
+    </vertex>
+
+    <vertex about="NR2781">
+    	<latitude datatype="float">-20.9629965676376</latitude>
+	<longitude datatype="float">-68.7096242845989</longitude>
+    </vertex>
+
+    <vertex about="NR279">
+    	<latitude datatype="float">-20.9701383275487</latitude>
+	<longitude datatype="float">-68.6911761603325</longitude>
+    </vertex>
+
+    <vertex about="NR280">
+    	<latitude datatype="float">-20.9649279869846</latitude>
+	<longitude datatype="float">-68.714507042856</longitude>
+    </vertex>
+
+    <vertex about="NR281">
+    	<latitude datatype="float">-20.9657275047609</latitude>
+	<longitude datatype="float">-68.7133661211247</longitude>
+    </vertex>
+
+    <vertex about="NR282">
+    	<latitude datatype="float">-20.9653052875082</latitude>
+	<longitude datatype="float">-68.711712751497</longitude>
+    </vertex>
+
+    <vertex about="NR283">
+    	<latitude datatype="float">-20.9723392472697</latitude>
+	<longitude datatype="float">-68.7266994352564</longitude>
+    </vertex>
+
+    <vertex about="NR283A">
+    	<latitude datatype="float">-20.9716924463721</latitude>
+	<longitude datatype="float">-68.7291456487991</longitude>
+    </vertex>
+
+    <vertex about="NR283B">
+    	<latitude datatype="float">-20.9723033138865</latitude>
+	<longitude datatype="float">-68.7293293565355</longitude>
+    </vertex>
+
+    <vertex about="NR284">
+    	<latitude datatype="float">-20.9597715464954</latitude>
+	<longitude datatype="float">-68.7343281407314</longitude>
+    </vertex>
+
+    <vertex about="NR285">
+    	<latitude datatype="float">-20.9588642285696</latitude>
+	<longitude datatype="float">-68.7225418391167</longitude>
+    </vertex>
+
+    <vertex about="NR286">
+    	<latitude datatype="float">-20.9843230305671</latitude>
+	<longitude datatype="float">-68.7313211351513</longitude>
+    </vertex>
+
+    <vertex about="NR287">
+    	<latitude datatype="float">-20.9819783773132</latitude>
+	<longitude datatype="float">-68.7261966561884</longitude>
+    </vertex>
+
+    <vertex about="NR288">
+    	<latitude datatype="float">-20.9631672512078</latitude>
+	<longitude datatype="float">-68.7106781868762</longitude>
+    </vertex>
+
+    <vertex about="NR289">
+    	<latitude datatype="float">-20.9595379795046</latitude>
+	<longitude datatype="float">-68.7222421054415</longitude>
+    </vertex>
+
+    <vertex about="NR290">
+    	<latitude datatype="float">-20.961676015805</latitude>
+	<longitude datatype="float">-68.735604426058</longitude>
+    </vertex>
+
+    <vertex about="NR1021">
+    	<latitude datatype="float">-20.9812058095744</latitude>
+	<longitude datatype="float">-68.6942315100537</longitude>
+    </vertex>
+
+    <vertex about="NR1022">
+    	<latitude datatype="float">-20.979876274396</latitude>
+	<longitude datatype="float">-68.6968807689893</longitude>
+    </vertex>
+
+    <vertex about="NR1023">
+    	<latitude datatype="float">-20.9877636520085</latitude>
+	<longitude datatype="float">-68.7079322396583</longitude>
+    </vertex>
+
+    <vertex about="NR1024">
+    	<latitude datatype="float">-20.9859759661943</latitude>
+	<longitude datatype="float">-68.7010770404419</longitude>
+    </vertex>
+
+    <vertex about="NR1025">
+    	<latitude datatype="float">-20.9859130827737</latitude>
+	<longitude datatype="float">-68.6969871260998</longitude>
+    </vertex>
+
+    <vertex about="NR1026">
+    	<latitude datatype="float">-20.9849159313899</latitude>
+	<longitude datatype="float">-68.6984471191629</longitude>
+    </vertex>
+
+    <vertex about="NR1027">
+    	<latitude datatype="float">-20.9839367466977</latitude>
+	<longitude datatype="float">-68.7138785690209</longitude>
+    </vertex>
+
+    <vertex about="NR1028">
+    	<latitude datatype="float">-20.9857244325119</latitude>
+	<longitude datatype="float">-68.7109972582078</longitude>
+    </vertex>
+
+    <vertex about="NR1029">
+    	<latitude datatype="float">-20.982346694491</latitude>
+	<longitude datatype="float">-68.7087444212298</longitude>
+    </vertex>
+
+    <vertex about="NR1030">
+    	<latitude datatype="float">-20.9833707959123</latitude>
+	<longitude datatype="float">-68.7012704170066</longitude>
+    </vertex>
+
+    <vertex about="NR1031">
+    	<latitude datatype="float">-20.9820053273506</latitude>
+	<longitude datatype="float">-68.7004582354351</longitude>
+    </vertex>
+
+    <vertex about="NR1032">
+    	<latitude datatype="float">-20.9835235127909</latitude>
+	<longitude datatype="float">-68.7027690853825</longitude>
+    </vertex>
+
+    <vertex about="NR1033">
+    	<latitude datatype="float">-20.9810710593874</latitude>
+	<longitude datatype="float">-68.6986791710404</longitude>
+    </vertex>
+
+    <vertex about="NR1034">
+    	<latitude datatype="float">-20.9771453372728</latitude>
+	<longitude datatype="float">-68.7163924643612</longitude>
+    </vertex>
+
+    <vertex about="NR1035">
+    	<latitude datatype="float">-20.9801637414616</latitude>
+	<longitude datatype="float">-68.71475843239</longitude>
+    </vertex>
+
+    <vertex about="NR1036">
+    	<latitude datatype="float">-20.9834516460245</latitude>
+	<longitude datatype="float">-68.7045964939183</longitude>
+    </vertex>
+
+    <vertex about="NR1037">
+    	<latitude datatype="float">-20.975609185141</latitude>
+	<longitude datatype="float">-68.6948986592017</longitude>
+    </vertex>
+
+    <vertex about="NR291">
+    	<latitude datatype="float">-20.9653322375456</latitude>
+	<longitude datatype="float">-68.7311180897584</longitude>
+    </vertex>
+
+    <vertex about="NR292">
+    	<latitude datatype="float">-20.9535820212391</latitude>
+	<longitude datatype="float">-68.7260806302496</longitude>
+    </vertex>
+
+    <vertex about="NR294">
+    	<latitude datatype="float">-20.961945516179</latitude>
+	<longitude datatype="float">-68.7019278973263</longitude>
+    </vertex>
+
+    <vertex about="NR295">
+    	<latitude datatype="float">-20.9845655809037</latitude>
+	<longitude datatype="float">-68.728140090663</longitude>
+    </vertex>
+
+    <vertex about="NR296">
+    	<latitude datatype="float">-20.9527645367713</latitude>
+	<longitude datatype="float">-68.7225225014602</longitude>
+    </vertex>
+
+    <vertex about="NR297">
+    	<latitude datatype="float">-20.9783401222642</latitude>
+	<longitude datatype="float">-68.7197282101012</longitude>
+    </vertex>
+
+    <vertex about="NR298">
+    	<latitude datatype="float">-20.9521626526027</latitude>
+	<longitude datatype="float">-68.7217489952017</longitude>
+    </vertex>
+
+    <vertex about="NR298A">
+    	<latitude datatype="float">-20.9497730826199</latitude>
+	<longitude datatype="float">-68.7185776195416</longitude>
+    </vertex>
+
+    <vertex about="NR298B">
+    	<latitude datatype="float">-20.9501952998725</latitude>
+	<longitude datatype="float">-68.718384242977</longitude>
+    </vertex>
+
+    <vertex about="NR299">
+    	<latitude datatype="float">-20.9626731671888</latitude>
+	<longitude datatype="float">-68.7160250488884</longitude>
+    </vertex>
+
+    <vertex about="NR300">
+    	<latitude datatype="float">-20.9728602813261</latitude>
+	<longitude datatype="float">-68.7225321702885</longitude>
+    </vertex>
+
+    <vertex about="NR301">
+    	<latitude datatype="float">-20.9621521331324</latitude>
+	<longitude datatype="float">-68.6978766582972</longitude>
+    </vertex>
+
+    <vertex about="NR302">
+    	<latitude datatype="float">-20.9730758816253</latitude>
+	<longitude datatype="float">-68.726099967906</longitude>
+    </vertex>
+
+    <vertex about="NR303">
+    	<latitude datatype="float">-20.9608405646456</latitude>
+	<longitude datatype="float">-68.7195638400213</longitude>
+    </vertex>
+
+    <vertex about="NR304">
+    	<latitude datatype="float">-20.9538245715757</latitude>
+	<longitude datatype="float">-68.7253361304757</longitude>
+    </vertex>
+
+    <vertex about="NR305">
+    	<latitude datatype="float">-20.9694196598847</latitude>
+	<longitude datatype="float">-68.7239051438974</longitude>
+    </vertex>
+
+    <vertex about="NR306">
+    	<latitude datatype="float">-20.9544983225107</latitude>
+	<longitude datatype="float">-68.7207917812067</longitude>
+    </vertex>
+
+    <vertex about="NR359">
+    	<latitude datatype="float">-20.9573909598584</latitude>
+	<longitude datatype="float">-68.7182682170382</longitude>
+    </vertex>
+
+    <vertex about="NR360">
+    	<latitude datatype="float">-20.9624935002728</latitude>
+	<longitude datatype="float">-68.7382246785088</longitude>
+    </vertex>
+
+    <vertex about="NR361">
+    	<latitude datatype="float">-20.9651615539754</latitude>
+	<longitude datatype="float">-68.7383890485888</longitude>
+    </vertex>
+
+    <vertex about="NR362">
+    	<latitude datatype="float">-20.976372769534</latitude>
+	<longitude datatype="float">-68.7319206025016</longitude>
+    </vertex>
+
+    <vertex about="NR363">
+    	<latitude datatype="float">-20.9787713228626</latitude>
+	<longitude datatype="float">-68.728807239811</longitude>
+    </vertex>
+
+    <vertex about="NR364">
+    	<latitude datatype="float">-20.9732465651955</latitude>
+	<longitude datatype="float">-68.7388628211721</longitude>
+    </vertex>
+
+    <vertex about="NR365">
+    	<latitude datatype="float">-20.9646674699564</latitude>
+	<longitude datatype="float">-68.7390561977368</longitude>
+    </vertex>
+
+    <vertex about="NR366">
+    	<latitude datatype="float">-20.9740191329344</latitude>
+	<longitude datatype="float">-68.7450315335841</longitude>
+    </vertex>
+
+    <vertex about="NR367">
+    	<latitude datatype="float">-20.9730668982795</latitude>
+	<longitude datatype="float">-68.7304509406104</longitude>
+    </vertex>
+
+    <vertex about="NR368">
+    	<latitude datatype="float">-20.9771183872354</latitude>
+	<longitude datatype="float">-68.7314661675747</longitude>
+    </vertex>
+
+    <vertex about="NR369">
+    	<latitude datatype="float">-20.9726536643727</latitude>
+	<longitude datatype="float">-68.7357494584815</longitude>
+    </vertex>
+
+    <vertex about="NR370">
+    	<latitude datatype="float">-20.9752408679632</latitude>
+	<longitude datatype="float">-68.7452539166334</longitude>
+    </vertex>
+
+    <vertex about="NR371">
+    	<latitude datatype="float">-20.9548396896511</latitude>
+	<longitude datatype="float">-68.7169339187422</longitude>
+    </vertex>
+
+    <vertex about="NR372">
+    	<latitude datatype="float">-20.975339684767</latitude>
+	<longitude datatype="float">-68.741193008776</longitude>
+    </vertex>
+
+    <vertex about="NR373">
+    	<latitude datatype="float">-20.9745581336824</latitude>
+	<longitude datatype="float">-68.7397910286824</longitude>
+    </vertex>
+
+    <vertex about="NR374">
+    	<latitude datatype="float">-20.9745222002992</latitude>
+	<longitude datatype="float">-68.7415120801077</longitude>
+    </vertex>
+
+    <vertex about="NR599">
+    	<latitude datatype="float">-20.9654759710784</latitude>
+	<longitude datatype="float">-68.7109005699255</longitude>
+    </vertex>
+
+    <vertex about="NR812">
+    	<latitude datatype="float">-20.9666887227615</latitude>
+	<longitude datatype="float">-68.707419791762</longitude>
+    </vertex>
+
+    <vertex about="NR813">
+    	<latitude datatype="float">-20.9664910891539</latitude>
+	<longitude datatype="float">-68.7093052132673</longitude>
+    </vertex>
+
+    <vertex about="NR815">
+    	<latitude datatype="float">-20.9737226825229</latitude>
+	<longitude datatype="float">-68.7064915842518</longitude>
+    </vertex>
+
+    <vertex about="NR817">
+    	<latitude datatype="float">-20.9762020859638</latitude>
+	<longitude datatype="float">-68.7105718297656</longitude>
+    </vertex>
+
+    <vertex about="NR818">
+    	<latitude datatype="float">-20.9731567317375</latitude>
+	<longitude datatype="float">-68.7115000372759</longitude>
+    </vertex>
+
+    <vertex about="NR819">
+    	<latitude datatype="float">-20.9689794759405</latitude>
+	<longitude datatype="float">-68.7105138167962</longitude>
+    </vertex>
+
+    <vertex about="NR824">
+    	<latitude datatype="float">-20.9740730330092</latitude>
+	<longitude datatype="float">-68.7103494467163</longitude>
+    </vertex>
+
+    <vertex about="NR825">
+    	<latitude datatype="float">-20.9729501147841</latitude>
+	<longitude datatype="float">-68.7082803174747</longitude>
+    </vertex>
+
+    <vertex about="NR826">
+    	<latitude datatype="float">-20.9743605000748</latitude>
+	<longitude datatype="float">-68.7063272141718</longitude>
+    </vertex>
+
+    <vertex about="NR827">
+    	<latitude datatype="float">-20.9727973979055</latitude>
+	<longitude datatype="float">-68.7073424411362</longitude>
+    </vertex>
+
+    <vertex about="NR835">
+    	<latitude datatype="float">-20.9721775470453</latitude>
+	<longitude datatype="float">-68.7092568691261</longitude>
+    </vertex>
+
+    <vertex about="NR839">
+    	<latitude datatype="float">-20.9734801321863</latitude>
+	<longitude datatype="float">-68.7091505120155</longitude>
+    </vertex>
+
+    <vertex about="NR843">
+    	<latitude datatype="float">-20.9708480118669</latitude>
+	<longitude datatype="float">-68.7054086754898</longitude>
+    </vertex>
+
+    <vertex about="NR844">
+    	<latitude datatype="float">-20.9707402117173</latitude>
+	<longitude datatype="float">-68.7070330386328</longitude>
+    </vertex>
+
+    <vertex about="NR845">
+    	<latitude datatype="float">-20.9717822798301</latitude>
+	<longitude datatype="float">-68.7078548890325</longitude>
+    </vertex>
+
+    <vertex about="NR901">
+    	<latitude datatype="float">-20.9790947233114</latitude>
+	<longitude datatype="float">-68.7109682517231</longitude>
+    </vertex>
+
+    <vertex about="NR902">
+    	<latitude datatype="float">-20.9748366174022</latitude>
+	<longitude datatype="float">-68.7086477329475</longitude>
+    </vertex>
+
+    <vertex about="NU18">
+    	<latitude datatype="float">-20.9877546686627</latitude>
+	<longitude datatype="float">-68.6385100529534</longitude>
+    </vertex>
+
+    <vertex about="NU19">
+    	<latitude datatype="float">-20.9898747382715</latitude>
+	<longitude datatype="float">-68.6453459145133</longitude>
+    </vertex>
+
+    <vertex about="NU20">
+    	<latitude datatype="float">-20.9924799085536</latitude>
+	<longitude datatype="float">-68.6477437839148</longitude>
+    </vertex>
+
+    <vertex about="NU21">
+    	<latitude datatype="float">-20.9973309152856</latitude>
+	<longitude datatype="float">-68.6555368594697</longitude>
+    </vertex>
+
+    <vertex about="NU22">
+    	<latitude datatype="float">-20.9913659736744</latitude>
+	<longitude datatype="float">-68.6536611067928</longitude>
+    </vertex>
+
+    <vertex about="NU23">
+    	<latitude datatype="float">-20.9872336346063</latitude>
+	<longitude datatype="float">-68.6558946061143</longitude>
+    </vertex>
+
+    <vertex about="NU24">
+    	<latitude datatype="float">-20.9840445468473</latitude>
+	<longitude datatype="float">-68.6620053055569</longitude>
+    </vertex>
+
+    <vertex about="NU25">
+    	<latitude datatype="float">-20.9895693045143</latitude>
+	<longitude datatype="float">-68.6586405533322</longitude>
+    </vertex>
+
+    <vertex about="NU26">
+    	<latitude datatype="float">-20.9877277186253</latitude>
+	<longitude datatype="float">-68.6704945367445</longitude>
+    </vertex>
+
+    <vertex about="NU27">
+    	<latitude datatype="float">-20.9834426626787</latitude>
+	<longitude datatype="float">-68.6759767623519</longitude>
+    </vertex>
+
+    <vertex about="NU28">
+    	<latitude datatype="float">-20.981762777014</latitude>
+	<longitude datatype="float">-68.6783069499558</longitude>
+    </vertex>
+
+    <vertex about="NU29">
+    	<latitude datatype="float">-20.9886530032427</latitude>
+	<longitude datatype="float">-68.6296727439494</longitude>
+    </vertex>
+
+    <vertex about="NU30">
+    	<latitude datatype="float">-20.9909437564217</latitude>
+	<longitude datatype="float">-68.6266464007129</longitude>
+    </vertex>
+
+    <vertex about="NU31">
+    	<latitude datatype="float">-20.9941148774892</latitude>
+	<longitude datatype="float">-68.6283094391687</longitude>
+    </vertex>
+
+    <vertex about="NU32">
+    	<latitude datatype="float">-20.9985077335854</latitude>
+	<longitude datatype="float">-68.6303398930974</longitude>
+    </vertex>
+
+    <vertex about="NU33">
+    	<latitude datatype="float">-20.9997833686891</latitude>
+	<longitude datatype="float">-68.6358511251896</longitude>
+    </vertex>
+
+    <vertex about="NU34">
+    	<latitude datatype="float">-20.9859400328111</latitude>
+	<longitude datatype="float">-68.6556432165803</longitude>
+    </vertex>
+
+    <vertex about="PLAT_INVIERNO">
+    	<latitude datatype="float">-20.9580018273728</latitude>
+	<longitude datatype="float">-68.7094405768625</longitude>
+    </vertex>
+
+    <vertex about="PLAT_INVIERNO_UJINA">
+    	<latitude datatype="float">-20.9880511190741</latitude>
+	<longitude datatype="float">-68.6396799811694</longitude>
+    </vertex>
+
+    <vertex about="PLAT_LLAMA_1">
+    	<latitude datatype="float">-20.9613975320852</latitude>
+	<longitude datatype="float">-68.7150678348935</longitude>
+    </vertex>
+
+    <vertex about="PLAT_LLAMA_2">
+    	<latitude datatype="float">-20.9603464806266</latitude>
+	<longitude datatype="float">-68.7164988214718</longitude>
+    </vertex>
+
+    <vertex about="PLAT_PUMA_1">
+    	<latitude datatype="float">-20.9798852577418</latitude>
+	<longitude datatype="float">-68.7239051438974</longitude>
+    </vertex>
+
+    <vertex about="PRETILES">
+    	<latitude datatype="float">-20.958352177859</latitude>
+	<longitude datatype="float">-68.7084060122417</longitude>
+    </vertex>
+
+    <vertex about="PROY._CRUZ">
+    	<latitude datatype="float">-20.9656466546487</latitude>
+	<longitude datatype="float">-68.7124185759579</longitude>
+    </vertex>
+
+    <vertex about="RAMPA_4600">
+    	<latitude datatype="float">-20.9866137837461</latitude>
+	<longitude datatype="float">-68.703706961721</longitude>
+    </vertex>
+
+    <vertex about="RAMPA_8B">
+    	<latitude datatype="float">-20.9676858741453</latitude>
+	<longitude datatype="float">-68.7093052132673</longitude>
+    </vertex>
+
+    <vertex about="RAMPA_CAPELLA">
+    	<latitude datatype="float">-20.9823197444536</latitude>
+	<longitude datatype="float">-68.7112776542266</longitude>
+    </vertex>
+
+    <vertex about="RAMPA_NORTE">
+    	<latitude datatype="float">-20.9723212805781</latitude>
+	<longitude datatype="float">-68.6977509635302</longitude>
+    </vertex>
+
+    <vertex about="RAMPA_TUNEL">
+    	<latitude datatype="float">-20.9726177309895</latitude>
+	<longitude datatype="float">-68.7009223391902</longitude>
+    </vertex>
+
+    <vertex about="RB1-BAJOCAPELLA_EST">
+    	<latitude datatype="float">-20.9736418324107</latitude>
+	<longitude datatype="float">-68.7329551671225</longitude>
+    </vertex>
+
+    <vertex about="RB1-CHINCHILLA_EST">
+    	<latitude datatype="float">-20.9609932815242</latitude>
+	<longitude datatype="float">-68.7387854705463</longitude>
+    </vertex>
+
+    <vertex about="RB1-FLAMENCO_EST">
+    	<latitude datatype="float">-20.9685392919963</latitude>
+	<longitude datatype="float">-68.7195735088495</longitude>
+    </vertex>
+
+    <vertex about="RB1-GUANACOLARGO_EST">
+    	<latitude datatype="float">-20.9690962594359</latitude>
+	<longitude datatype="float">-68.7447511375653</longitude>
+    </vertex>
+
+    <vertex about="RI9A-INPIT_SAL">
+    	<latitude datatype="float">-20.9770285537774</latitude>
+	<longitude datatype="float">-68.7055730455697</longitude>
+    </vertex>
+
+    <vertex about="RI9A-INPIT_SME">
+    	<latitude datatype="float">-20.9770195704316</latitude>
+	<longitude datatype="float">-68.7054376819745</longitude>
+    </vertex>
+
+    <vertex about="RI9B-INPIT_EST">
+    	<latitude datatype="float">-20.9754564682624</latitude>
+	<longitude datatype="float">-68.707419791762</longitude>
+    </vertex>
+
+    <vertex about="RI9B-INPIT_SAL">
+    	<latitude datatype="float">-20.9770285537774</latitude>
+	<longitude datatype="float">-68.7059114545579</longitude>
+    </vertex>
+
+    <vertex about="RI9B-INPIT_SBH">
+    	<latitude datatype="float">-20.9755912184494</latitude>
+	<longitude datatype="float">-68.7076518436396</longitude>
+    </vertex>
+
+    <vertex about="RI9B-INPIT_SME">
+    	<latitude datatype="float">-20.9770375371232</latitude>
+	<longitude datatype="float">-68.7057277468215</longitude>
+    </vertex>
+
+    <vertex about="ROSARIO">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="ROSUR">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="RS1-4550_SBL">
+    	<latitude datatype="float">-20.9634187848902</latitude>
+	<longitude datatype="float">-68.7352756858981</longitude>
+    </vertex>
+
+    <vertex about="RS1-4600_MIX">
+    	<latitude datatype="float">-20.9824814446781</latitude>
+	<longitude datatype="float">-68.7215362809806</longitude>
+    </vertex>
+
+    <vertex about="RS1-4600_OXA">
+    	<latitude datatype="float">-20.9840714968847</latitude>
+	<longitude datatype="float">-68.7210625083972</longitude>
+    </vertex>
+
+    <vertex about="RS1-4600_OXB">
+    	<latitude datatype="float">-20.9820951608086</latitude>
+	<longitude datatype="float">-68.7200182749482</longitude>
+    </vertex>
+
+    <vertex about="RS1-AGUILA_SAA">
+    	<latitude datatype="float">-20.9581186108682</latitude>
+	<longitude datatype="float">-68.7288749216086</longitude>
+    </vertex>
+
+    <vertex about="RS1-GAVIOTA_SAL">
+    	<latitude datatype="float">-20.9573101097462</latitude>
+	<longitude datatype="float">-68.7367066724764</longitude>
+    </vertex>
+
+    <vertex about="RS1-LIRIMA_MIX">
+    	<latitude datatype="float">-20.9509858343029</latitude>
+	<longitude datatype="float">-68.7090151484203</longitude>
+    </vertex>
+
+    <vertex about="RS1-PARINA_SME">
+    	<latitude datatype="float">-20.9572831597088</latitude>
+	<longitude datatype="float">-68.7322976868027</longitude>
+    </vertex>
+
+    <vertex about="NR1038">
+    	<latitude datatype="float">-20.9815741267522</latitude>
+	<longitude datatype="float">-68.7063465518283</longitude>
+    </vertex>
+
+    <vertex about="NR1039">
+    	<latitude datatype="float">-20.9681530081269</latitude>
+	<longitude datatype="float">-68.6998007551153</longitude>
+    </vertex>
+
+    <vertex about="NR1041">
+    	<latitude datatype="float">-20.9826161948651</latitude>
+	<longitude datatype="float">-68.7025853776461</longitude>
+    </vertex>
+
+    <vertex about="NR1042">
+    	<latitude datatype="float">-20.9829126452765</latitude>
+	<longitude datatype="float">-68.7066656231599</longitude>
+    </vertex>
+
+    <vertex about="NR1043">
+    	<latitude datatype="float">-20.9784658891054</latitude>
+	<longitude datatype="float">-68.7158510099802</longitude>
+    </vertex>
+
+    <vertex about="NR1045">
+    	<latitude datatype="float">-20.9829306119681</latitude>
+	<longitude datatype="float">-68.7097693170224</longitude>
+    </vertex>
+
+    <vertex about="NR1046">
+    	<latitude datatype="float">-20.9827868784353</latitude>
+	<longitude datatype="float">-68.7054956949439</longitude>
+    </vertex>
+
+    <vertex about="NR1047">
+    	<latitude datatype="float">-20.9793911737228</latitude>
+	<longitude datatype="float">-68.7118867904052</longitude>
+    </vertex>
+
+    <vertex about="NR1048">
+    	<latitude datatype="float">-20.9788342062832</latitude>
+	<longitude datatype="float">-68.7137818807386</longitude>
+    </vertex>
+
+    <vertex about="NR1100">
+    	<latitude datatype="float">-20.9675870573415</latitude>
+	<longitude datatype="float">-68.7135014847199</longitude>
+    </vertex>
+
+    <vertex about="NR1101">
+    	<latitude datatype="float">-20.9725638309147</latitude>
+	<longitude datatype="float">-68.7151161790346</longitude>
+    </vertex>
+
+    <vertex about="NR1102">
+    	<latitude datatype="float">-20.9755822351036</latitude>
+	<longitude datatype="float">-68.7146230687948</longitude>
+    </vertex>
+
+    <vertex about="NR1103">
+    	<latitude datatype="float">-20.9696442435297</latitude>
+	<longitude datatype="float">-68.7144490298866</longitude>
+    </vertex>
+
+    <vertex about="NR1104">
+    	<latitude datatype="float">-20.9712253123905</latitude>
+	<longitude datatype="float">-68.7148744583288</longitude>
+    </vertex>
+
+    <vertex about="NR1105">
+    	<latitude datatype="float">-20.9771094038896</latitude>
+	<longitude datatype="float">-68.7144393610584</longitude>
+    </vertex>
+
+    <vertex about="NR1106">
+    	<latitude datatype="float">-20.9665090558455</latitude>
+	<longitude datatype="float">-68.7125829460379</longitude>
+    </vertex>
+
+    <vertex about="NR1107">
+    	<latitude datatype="float">-20.9760763191226</latitude>
+	<longitude datatype="float">-68.7128343355719</longitude>
+    </vertex>
+
+    <vertex about="NR307">
+    	<latitude datatype="float">-20.9604363140846</latitude>
+	<longitude datatype="float">-68.7190997362662</longitude>
+    </vertex>
+
+    <vertex about="NR308">
+    	<latitude datatype="float">-20.9688896424825</latitude>
+	<longitude datatype="float">-68.7359331662179</longitude>
+    </vertex>
+
+    <vertex about="NR309">
+    	<latitude datatype="float">-20.9653771542746</latitude>
+	<longitude datatype="float">-68.7133854587811</longitude>
+    </vertex>
+
+    <vertex about="NR310">
+    	<latitude datatype="float">-20.9656197046112</latitude>
+	<longitude datatype="float">-68.692365426205</longitude>
+    </vertex>
+
+    <vertex about="NR312">
+    	<latitude datatype="float">-20.9801637414616</latitude>
+	<longitude datatype="float">-68.6805114427927</longitude>
+    </vertex>
+
+    <vertex about="NR313">
+    	<latitude datatype="float">-20.9592415290932</latitude>
+	<longitude datatype="float">-68.7012800858348</longitude>
+    </vertex>
+
+    <vertex about="NR314">
+    	<latitude datatype="float">-20.959744596458</latitude>
+	<longitude datatype="float">-68.7097596481942</longitude>
+    </vertex>
+
+    <vertex about="NR315">
+    	<latitude datatype="float">-20.957049592718</latitude>
+	<longitude datatype="float">-68.7042967602431</longitude>
+    </vertex>
+
+    <vertex about="NR316">
+    	<latitude datatype="float">-20.9660059884807</latitude>
+	<longitude datatype="float">-68.7189547038427</longitude>
+    </vertex>
+
+    <vertex about="NR317">
+    	<latitude datatype="float">-20.9543995057069</latitude>
+	<longitude datatype="float">-68.7076228371549</longitude>
+    </vertex>
+
+    <vertex about="NR318">
+    	<latitude datatype="float">-20.9546690060809</latitude>
+	<longitude datatype="float">-68.717301334215</longitude>
+    </vertex>
+
+    <vertex about="NR319">
+    	<latitude datatype="float">-20.9609663314868</latitude>
+	<longitude datatype="float">-68.7021986245168</longitude>
+    </vertex>
+
+    <vertex about="NR320">
+    	<latitude datatype="float">-20.9582713277468</latitude>
+	<longitude datatype="float">-68.7268251300234</longitude>
+    </vertex>
+
+    <vertex about="NR321">
+    	<latitude datatype="float">-20.9828677285475</latitude>
+	<longitude datatype="float">-68.7299674991988</longitude>
+    </vertex>
+
+    <vertex about="NR322">
+    	<latitude datatype="float">-20.9659700550975</latitude>
+	<longitude datatype="float">-68.7123412253321</longitude>
+    </vertex>
+
+    <vertex about="NR323">
+    	<latitude datatype="float">-20.974082016355</latitude>
+	<longitude datatype="float">-68.7305669665492</longitude>
+    </vertex>
+
+    <vertex about="NR324">
+    	<latitude datatype="float">-20.9780167218154</latitude>
+	<longitude datatype="float">-68.6819327605428</longitude>
+    </vertex>
+
+    <vertex about="NR903">
+    	<latitude datatype="float">-20.976956687011</latitude>
+	<longitude datatype="float">-68.7068106555834</longitude>
+    </vertex>
+
+    <vertex about="NR904">
+    	<latitude datatype="float">-20.977944855049</latitude>
+	<longitude datatype="float">-68.7122251993933</longitude>
+    </vertex>
+
+    <vertex about="NR905">
+    	<latitude datatype="float">-20.9750612010472</latitude>
+	<longitude datatype="float">-68.7163441202201</longitude>
+    </vertex>
+
+    <vertex about="NR906">
+    	<latitude datatype="float">-20.978573689255</latitude>
+	<longitude datatype="float">-68.6983117555676</longitude>
+    </vertex>
+
+    <vertex about="NR907">
+    	<latitude datatype="float">-20.9733363986535</latitude>
+	<longitude datatype="float">-68.7170306070245</longitude>
+    </vertex>
+
+    <vertex about="NR908">
+    	<latitude datatype="float">-20.9764266696088</latitude>
+	<longitude datatype="float">-68.7072360840256</longitude>
+    </vertex>
+
+    <vertex about="NR909">
+    	<latitude datatype="float">-20.976417686263</latitude>
+	<longitude datatype="float">-68.7062788700307</longitude>
+    </vertex>
+
+    <vertex about="NR910">
+    	<latitude datatype="float">-20.9799301744708</latitude>
+	<longitude datatype="float">-68.7090248172485</longitude>
+    </vertex>
+
+    <vertex about="NR911">
+    	<latitude datatype="float">-20.9786814894046</latitude>
+	<longitude datatype="float">-68.7044224550101</longitude>
+    </vertex>
+
+    <vertex about="NR912">
+    	<latitude datatype="float">-20.9800020412372</latitude>
+	<longitude datatype="float">-68.7029914684318</longitude>
+    </vertex>
+
+    <vertex about="NR914">
+    	<latitude datatype="float">-20.9746300004488</latitude>
+	<longitude datatype="float">-68.7159186917779</longitude>
+    </vertex>
+
+    <vertex about="NR915">
+    	<latitude datatype="float">-20.9761302191974</latitude>
+	<longitude datatype="float">-68.7160443865449</longitude>
+    </vertex>
+
+    <vertex about="NR916">
+    	<latitude datatype="float">-20.980550025331</latitude>
+	<longitude datatype="float">-68.7047221886853</longitude>
+    </vertex>
+
+    <vertex about="NR917">
+    	<latitude datatype="float">-20.9803434083776</latitude>
+	<longitude datatype="float">-68.7076711812961</longitude>
+    </vertex>
+
+    <vertex about="NR918">
+    	<latitude datatype="float">-20.9779538383948</latitude>
+	<longitude datatype="float">-68.6973738792291</longitude>
+    </vertex>
+
+    <vertex about="NR919">
+    	<latitude datatype="float">-20.9747198339068</latitude>
+	<longitude datatype="float">-68.6995880408942</longitude>
+    </vertex>
+
+    <vertex about="NR920">
+    	<latitude datatype="float">-20.977944855049</latitude>
+	<longitude datatype="float">-68.7082319733335</longitude>
+    </vertex>
+
+    <vertex about="RB1-GUANACOMEDIO_EST">
+    	<latitude datatype="float">-20.9736508157565</latitude>
+	<longitude datatype="float">-68.7492858180061</longitude>
+    </vertex>
+
+    <vertex about="RB1-GUANACOSUP_EST">
+    	<latitude datatype="float">-20.9753037513838</latitude>
+	<longitude datatype="float">-68.7436488911469</longitude>
+    </vertex>
+
+    <vertex about="RB1-HUINQUICORTO_EST">
+    	<latitude datatype="float">-20.9733363986535</latitude>
+	<longitude datatype="float">-68.7472263575927</longitude>
+    </vertex>
+
+    <vertex about="RB1-HUINQUINEUTR_EST">
+    	<latitude datatype="float">-20.9736777657939</latitude>
+	<longitude datatype="float">-68.7475067536114</longitude>
+    </vertex>
+
+    <vertex about="RB1-PUMA_EST">
+    	<latitude datatype="float">-20.9821939776124</latitude>
+	<longitude datatype="float">-68.7336996668963</longitude>
+    </vertex>
+
+    <vertex about="RB1-PUMABAJO_EST">
+    	<latitude datatype="float">-20.9770824538522</latitude>
+	<longitude datatype="float">-68.7226772027119</longitude>
+    </vertex>
+
+    <vertex about="RB1-PUMACORTO_EST">
+    	<latitude datatype="float">-20.9746839005236</latitude>
+	<longitude datatype="float">-68.737480178735</longitude>
+    </vertex>
+
+    <vertex about="RB1-PUMANEUTRO_EST">
+    	<latitude datatype="float">-20.9790498065824</latitude>
+	<longitude datatype="float">-68.7265447340047</longitude>
+    </vertex>
+
+    <vertex about="RB1-ZORRITO_EST">
+    	<latitude datatype="float">-20.9521177358737</latitude>
+	<longitude datatype="float">-68.7171659706198</longitude>
+    </vertex>
+
+    <vertex about="RB1-ZORRO_EST">
+    	<latitude datatype="float">-20.9571753595592</latitude>
+	<longitude datatype="float">-68.7203663527645</longitude>
+    </vertex>
+
+    <vertex about="RB2-ALPACA_EST">
+    	<latitude datatype="float">-20.9633109847406</latitude>
+	<longitude datatype="float">-68.7389305029698</longitude>
+    </vertex>
+
+    <vertex about="RB2-ALPACACORTO_EST">
+    	<latitude datatype="float">-20.9708210618295</latitude>
+	<longitude datatype="float">-68.7331001995459</longitude>
+    </vertex>
+
+    <vertex about="RB2-GUANACOCORTO_EST">
+    	<latitude datatype="float">-20.9744593168786</latitude>
+	<longitude datatype="float">-68.7466655655553</longitude>
+    </vertex>
+
+    <vertex about="RB2-ZORRO_EST">
+    	<latitude datatype="float">-20.9520279024157</latitude>
+	<longitude datatype="float">-68.7095952781142</longitude>
+    </vertex>
+
+    <vertex about="RB3-NEUTRO_EST">
+    	<latitude datatype="float">-20.9795708406388</latitude>
+	<longitude datatype="float">-68.7259549354826</longitude>
+    </vertex>
+
+    <vertex about="RF10">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="NR1108">
+    	<latitude datatype="float">-20.9700664607823</latitude>
+	<longitude datatype="float">-68.7137915495668</longitude>
+    </vertex>
+
+    <vertex about="NR1109">
+    	<latitude datatype="float">-20.9673265403133</latitude>
+	<longitude datatype="float">-68.7109972582078</longitude>
+    </vertex>
+
+    <vertex about="NR1110">
+    	<latitude datatype="float">-20.9768129534782</latitude>
+	<longitude datatype="float">-68.7131050627624</longitude>
+    </vertex>
+
+    <vertex about="NR1111">
+    	<latitude datatype="float">-20.9748995008228</latitude>
+	<longitude datatype="float">-68.7126893031484</longitude>
+    </vertex>
+
+    <vertex about="NR1112">
+    	<latitude datatype="float">-20.9685931920711</latitude>
+	<longitude datatype="float">-68.7111132841466</longitude>
+    </vertex>
+
+    <vertex about="NR1113">
+    	<latitude datatype="float">-20.9701473108945</latitude>
+	<longitude datatype="float">-68.7122928811909</longitude>
+    </vertex>
+
+    <vertex about="NR1115">
+    	<latitude datatype="float">-20.9688626924451</latitude>
+	<longitude datatype="float">-68.7129406926825</longitude>
+    </vertex>
+
+    <vertex about="NR1116">
+    	<latitude datatype="float">-20.9746479671404</latitude>
+	<longitude datatype="float">-68.7147777700465</longitude>
+    </vertex>
+
+    <vertex about="NR1118">
+    	<latitude datatype="float">-20.9682787749681</latitude>
+	<longitude datatype="float">-68.7123605629885</longitude>
+    </vertex>
+
+    <vertex about="NR199">
+    	<latitude datatype="float">-20.9714858294187</latitude>
+	<longitude datatype="float">-68.7411640022913</longitude>
+    </vertex>
+
+    <vertex about="NR200">
+    	<latitude datatype="float">-20.9534652377437</latitude>
+	<longitude datatype="float">-68.7141879715244</longitude>
+    </vertex>
+
+    <vertex about="NR201">
+    	<latitude datatype="float">-20.961586182347</latitude>
+	<longitude datatype="float">-68.717717093829</longitude>
+    </vertex>
+
+    <vertex about="NR202">
+    	<latitude datatype="float">-20.9730399482421</latitude>
+	<longitude datatype="float">-68.7213912485571</longitude>
+    </vertex>
+
+    <vertex about="NR203">
+    	<latitude datatype="float">-20.9687009922207</latitude>
+	<longitude datatype="float">-68.7295130642719</longitude>
+    </vertex>
+
+    <vertex about="NR204">
+    	<latitude datatype="float">-20.9659880217891</latitude>
+	<longitude datatype="float">-68.7338350304915</longitude>
+    </vertex>
+
+    <vertex about="NR205">
+    	<latitude datatype="float">-20.9722134804285</latitude>
+	<longitude datatype="float">-68.7249687150029</longitude>
+    </vertex>
+
+    <vertex about="NR206">
+    	<latitude datatype="float">-20.9761122525058</latitude>
+	<longitude datatype="float">-68.7338833746327</longitude>
+    </vertex>
+
+    <vertex about="NR325">
+    	<latitude datatype="float">-20.958666594962</latitude>
+	<longitude datatype="float">-68.7298611420882</longitude>
+    </vertex>
+
+    <vertex about="NR326">
+    	<latitude datatype="float">-20.9687009922207</latitude>
+	<longitude datatype="float">-68.7258775848567</longitude>
+    </vertex>
+
+    <vertex about="NR327">
+    	<latitude datatype="float">-20.9735070822237</latitude>
+	<longitude datatype="float">-68.7257422212615</longitude>
+    </vertex>
+
+    <vertex about="NR328">
+    	<latitude datatype="float">-20.9746389837946</latitude>
+	<longitude datatype="float">-68.6870379018492</longitude>
+    </vertex>
+
+    <vertex about="NR329">
+    	<latitude datatype="float">-20.9732465651955</latitude>
+	<longitude datatype="float">-68.7163247825636</longitude>
+    </vertex>
+
+    <vertex about="NR330">
+    	<latitude datatype="float">-20.9730309648963</latitude>
+	<longitude datatype="float">-68.7191287427509</longitude>
+    </vertex>
+
+    <vertex about="NR331">
+    	<latitude datatype="float">-20.9728782480177</latitude>
+	<longitude datatype="float">-68.7471393381386</longitude>
+    </vertex>
+
+    <vertex about="NR332">
+    	<latitude datatype="float">-20.9530340371453</latitude>
+	<longitude datatype="float">-68.7061435064354</longitude>
+    </vertex>
+
+    <vertex about="NR333">
+    	<latitude datatype="float">-20.9730668982795</latitude>
+	<longitude datatype="float">-68.7238664685845</longitude>
+    </vertex>
+
+    <vertex about="NR334">
+    	<latitude datatype="float">-20.9671378900515</latitude>
+	<longitude datatype="float">-68.7214202550418</longitude>
+    </vertex>
+
+    <vertex about="NR335">
+    	<latitude datatype="float">-20.9831462122673</latitude>
+	<longitude datatype="float">-68.7328198035272</longitude>
+    </vertex>
+
+    <vertex about="NR336">
+    	<latitude datatype="float">-20.9689704925947</latitude>
+	<longitude datatype="float">-68.7226288585708</longitude>
+    </vertex>
+
+    <vertex about="NR337">
+    	<latitude datatype="float">-20.9663922723501</latitude>
+	<longitude datatype="float">-68.7153869062251</longitude>
+    </vertex>
+
+    <vertex about="NR338">
+    	<latitude datatype="float">-20.9600320635236</latitude>
+	<longitude datatype="float">-68.7017538584182</longitude>
+    </vertex>
+
+    <vertex about="NR339">
+    	<latitude datatype="float">-20.9693388097725</latitude>
+	<longitude datatype="float">-68.727308571435</longitude>
+    </vertex>
+
+    <vertex about="NR340">
+    	<latitude datatype="float">-20.9777292547498</latitude>
+	<longitude datatype="float">-68.7302575640458</longitude>
+    </vertex>
+
+    <vertex about="NR341">
+    	<latitude datatype="float">-20.974576100374</latitude>
+	<longitude datatype="float">-68.7313888169489</longitude>
+    </vertex>
+
+    <vertex about="NR921">
+    	<latitude datatype="float">-20.9794630404892</latitude>
+	<longitude datatype="float">-68.7067139673011</longitude>
+    </vertex>
+
+    <vertex about="NR922">
+    	<latitude datatype="float">-20.9787623395168</latitude>
+	<longitude datatype="float">-68.7078548890325</longitude>
+    </vertex>
+
+    <vertex about="NR923">
+    	<latitude datatype="float">-20.9760224190478</latitude>
+	<longitude datatype="float">-68.7163247825636</longitude>
+    </vertex>
+
+    <vertex about="NR924">
+    	<latitude datatype="float">-20.9778011215162</latitude>
+	<longitude datatype="float">-68.7035039163281</longitude>
+    </vertex>
+
+    <vertex about="NR925">
+    	<latitude datatype="float">-20.9783670723016</latitude>
+	<longitude datatype="float">-68.7073037658233</longitude>
+    </vertex>
+
+    <vertex about="NR926">
+    	<latitude datatype="float">-20.9800289912746</latitude>
+	<longitude datatype="float">-68.7040550395373</longitude>
+    </vertex>
+
+    <vertex about="NR927">
+    	<latitude datatype="float">-20.9792564235358</latitude>
+	<longitude datatype="float">-68.7011253845831</longitude>
+    </vertex>
+
+    <vertex about="NR929">
+    	<latitude datatype="float">-20.9777562047872</latitude>
+	<longitude datatype="float">-68.7020729297498</longitude>
+    </vertex>
+
+    <vertex about="NR930">
+    	<latitude datatype="float">-20.9799930578914</latitude>
+	<longitude datatype="float">-68.7051186106428</longitude>
+    </vertex>
+
+    <vertex about="NR931">
+    	<latitude datatype="float">-20.9772531374224</latitude>
+	<longitude datatype="float">-68.7016475013076</longitude>
+    </vertex>
+
+    <vertex about="NR932">
+    	<latitude datatype="float">-20.9791306566946</latitude>
+	<longitude datatype="float">-68.6995493655813</longitude>
+    </vertex>
+
+    <vertex about="NR933">
+    	<latitude datatype="float">-20.9786814894046</latitude>
+	<longitude datatype="float">-68.7059211233861</longitude>
+    </vertex>
+
+    <vertex about="NR934">
+    	<latitude datatype="float">-20.9769746537026</latitude>
+	<longitude datatype="float">-68.6998200927718</longitude>
+    </vertex>
+
+    <vertex about="NR937">
+    	<latitude datatype="float">-20.9782502888062</latitude>
+	<longitude datatype="float">-68.7031365008553</longitude>
+    </vertex>
+
+    <vertex about="NR939">
+    	<latitude datatype="float">-20.9778011215162</latitude>
+	<longitude datatype="float">-68.7049929158758</longitude>
+    </vertex>
+
+    <vertex about="NR945">
+    	<latitude datatype="float">-20.9773250041888</latitude>
+	<longitude datatype="float">-68.7063562206565</longitude>
+    </vertex>
+
+    <vertex about="NU01">
+    	<latitude datatype="float">-20.9888775868877</latitude>
+	<longitude datatype="float">-68.6653410512969</longitude>
+    </vertex>
+
+    <vertex about="RF10A">
+    	<latitude datatype="float">-20.9817448103224</latitude>
+	<longitude datatype="float">-68.6956915031168</longitude>
+    </vertex>
+
+    <vertex about="RF10A-4375-1005-1">
+    	<latitude datatype="float">-20.9813854764904</latitude>
+	<longitude datatype="float">-68.7101464013234</longitude>
+    </vertex>
+
+    <vertex about="RF10A-4390-1018-1">
+    	<latitude datatype="float">-20.9778370548994</latitude>
+	<longitude datatype="float">-68.7130953939342</longitude>
+    </vertex>
+
+    <vertex about="RF10A-4390-1025-1">
+    	<latitude datatype="float">-20.9815022599858</latitude>
+	<longitude datatype="float">-68.7017635272464</longitude>
+    </vertex>
+
+    <vertex about="RF10A-4390-1028-1">
+    	<latitude datatype="float">-20.9778190882078</latitude>
+	<longitude datatype="float">-68.6965520288294</longitude>
+    </vertex>
+
+    <vertex about="RF10A-4390-1032-1">
+    	<latitude datatype="float">-20.9808464757424</latitude>
+	<longitude datatype="float">-68.7005259172327</longitude>
+    </vertex>
+
+    <vertex about="RF10B">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="RF11">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="RF11-4405-1112-1">
+    	<latitude datatype="float">-20.974800684019</latitude>
+	<longitude datatype="float">-68.7133661211247</longitude>
+    </vertex>
+
+    <vertex about="RF11-4405-1124-1">
+    	<latitude datatype="float">-20.9754115515334</latitude>
+	<longitude datatype="float">-68.713424134094</longitude>
+    </vertex>
+
+    <vertex about="RF11-4405-1127-1">
+    	<latitude datatype="float">-20.9717912631759</latitude>
+	<longitude datatype="float">-68.7139365819903</longitude>
+    </vertex>
+
+    <vertex about="RF6">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="RF8">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="RF8B">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="RF8B2-4030-601-1">
+    	<latitude datatype="float">-20.9731836817749</latitude>
+	<longitude datatype="float">-68.7061725129201</longitude>
+    </vertex>
+
+    <vertex about="RF9">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="NR207">
+    	<latitude datatype="float">-20.962619267114</latitude>
+	<longitude datatype="float">-68.7167308733493</longitude>
+    </vertex>
+
+    <vertex about="NR208">
+    	<latitude datatype="float">-20.9723212805781</latitude>
+	<longitude datatype="float">-68.744818819363</longitude>
+    </vertex>
+
+    <vertex about="NR209">
+    	<latitude datatype="float">-20.9677128241827</latitude>
+	<longitude datatype="float">-68.7159476982626</longitude>
+    </vertex>
+
+    <vertex about="NR211">
+    	<latitude datatype="float">-20.9868743007743</latitude>
+	<longitude datatype="float">-68.7341927771361</longitude>
+    </vertex>
+
+    <vertex about="NR212">
+    	<latitude datatype="float">-20.9859130827737</latitude>
+	<longitude datatype="float">-68.7362522375495</longitude>
+    </vertex>
+
+    <vertex about="NR213">
+    	<latitude datatype="float">-20.9698508604831</latitude>
+	<longitude datatype="float">-68.7272312208092</longitude>
+    </vertex>
+
+    <vertex about="NR214">
+    	<latitude datatype="float">-20.9707581784089</latitude>
+	<longitude datatype="float">-68.7387177887487</longitude>
+    </vertex>
+
+    <vertex about="NR214B">
+    	<latitude datatype="float">-20.9699856106701</latitude>
+	<longitude datatype="float">-68.7422952551944</longitude>
+    </vertex>
+
+    <vertex about="NR215">
+    	<latitude datatype="float">-20.9884374029435</latitude>
+	<longitude datatype="float">-68.7344635043266</longitude>
+    </vertex>
+
+    <vertex about="NR216">
+    	<latitude datatype="float">-20.9848350812777</latitude>
+	<longitude datatype="float">-68.7316111999982</longitude>
+    </vertex>
+
+    <vertex about="NR217">
+    	<latitude datatype="float">-20.9683775917719</latitude>
+	<longitude datatype="float">-68.7314855052312</longitude>
+    </vertex>
+
+    <vertex about="NR218">
+    	<latitude datatype="float">-20.9692849096977</latitude>
+	<longitude datatype="float">-68.7313791481207</longitude>
+    </vertex>
+
+    <vertex about="NR219">
+    	<latitude datatype="float">-20.9727973979055</latitude>
+	<longitude datatype="float">-68.7176300743749</longitude>
+    </vertex>
+
+    <vertex about="NR220">
+    	<latitude datatype="float">-20.9545791726229</latitude>
+	<longitude datatype="float">-68.7258679160285</longitude>
+    </vertex>
+
+    <vertex about="NR221">
+    	<latitude datatype="float">-20.9732824985787</latitude>
+	<longitude datatype="float">-68.7421598915992</longitude>
+    </vertex>
+
+    <vertex about="NR222">
+    	<latitude datatype="float">-20.9574448599332</latitude>
+	<longitude datatype="float">-68.7107168621891</longitude>
+    </vertex>
+
+    <vertex about="NR223">
+    	<latitude datatype="float">-20.9574807933164</latitude>
+	<longitude datatype="float">-68.7241565334314</longitude>
+    </vertex>
+
+    <vertex about="NR342">
+    	<latitude datatype="float">-20.9799301744708</latitude>
+	<longitude datatype="float">-68.7276663180796</longitude>
+    </vertex>
+
+    <vertex about="NR343">
+    	<latitude datatype="float">-20.9745940670656</latitude>
+	<longitude datatype="float">-68.7346665497195</longitude>
+    </vertex>
+
+    <vertex about="NR344">
+    	<latitude datatype="float">-20.9530609871827</latitude>
+	<longitude datatype="float">-68.71475843239</longitude>
+    </vertex>
+
+    <vertex about="NR345">
+    	<latitude datatype="float">-20.976597353179</latitude>
+	<longitude datatype="float">-68.7352176729287</longitude>
+    </vertex>
+
+    <vertex about="NR347">
+    	<latitude datatype="float">-20.9780077384696</latitude>
+	<longitude datatype="float">-68.7308376937397</longitude>
+    </vertex>
+
+    <vertex about="NR348">
+    	<latitude datatype="float">-20.959385262626</latitude>
+	<longitude datatype="float">-68.7082996551311</longitude>
+    </vertex>
+
+    <vertex about="NR349">
+    	<latitude datatype="float">-20.9589630453734</latitude>
+	<longitude datatype="float">-68.7162280942813</longitude>
+    </vertex>
+
+    <vertex about="NR350">
+    	<latitude datatype="float">-20.9752408679632</latitude>
+	<longitude datatype="float">-68.7362232310648</longitude>
+    </vertex>
+
+    <vertex about="NR351">
+    	<latitude datatype="float">-20.9773070374972</latitude>
+	<longitude datatype="float">-68.7342604589338</longitude>
+    </vertex>
+
+    <vertex about="NR352">
+    	<latitude datatype="float">-20.9785557225634</latitude>
+	<longitude datatype="float">-68.7282174412888</longitude>
+    </vertex>
+
+    <vertex about="NR353">
+    	<latitude datatype="float">-20.97610326916</latitude>
+	<longitude datatype="float">-68.7358848220767</longitude>
+    </vertex>
+
+    <vertex about="NR354">
+    	<latitude datatype="float">-20.9658353049105</latitude>
+	<longitude datatype="float">-68.7389498406262</longitude>
+    </vertex>
+
+    <vertex about="NR355">
+    	<latitude datatype="float">-20.9739023494389</latitude>
+	<longitude datatype="float">-68.744112994902</longitude>
+    </vertex>
+
+    <vertex about="NR3555">
+    	<latitude datatype="float">-20.9837750464733</latitude>
+	<longitude datatype="float">-68.7333032449388</longitude>
+    </vertex>
+
+    <vertex about="NR356">
+    	<latitude datatype="float">-20.9716924463721</latitude>
+	<longitude datatype="float">-68.7344248290137</longitude>
+    </vertex>
+
+    <vertex about="NR357">
+    	<latitude datatype="float">-20.9586755783078</latitude>
+	<longitude datatype="float">-68.7159863735755</longitude>
+    </vertex>
+
+    <vertex about="NR358">
+    	<latitude datatype="float">-20.957094509447</latitude>
+	<longitude datatype="float">-68.7180748404736</longitude>
+    </vertex>
+
+    <vertex about="NU02">
+    	<latitude datatype="float">-20.9896321879349</latitude>
+	<longitude datatype="float">-68.6613961693783</longitude>
+    </vertex>
+
+    <vertex about="NU03">
+    	<latitude datatype="float">-20.9960013801072</latitude>
+	<longitude datatype="float">-68.6399797148446</longitude>
+    </vertex>
+
+    <vertex about="NU04">
+    	<latitude datatype="float">-20.9894076042899</latitude>
+	<longitude datatype="float">-68.6274392446279</longitude>
+    </vertex>
+
+    <vertex about="NU05">
+    	<latitude datatype="float">-20.9976812657718</latitude>
+	<longitude datatype="float">-68.6414397079077</longitude>
+    </vertex>
+
+    <vertex about="NU06">
+    	<latitude datatype="float">-20.9962529137896</latitude>
+	<longitude datatype="float">-68.6439632720762</longitude>
+    </vertex>
+
+    <vertex about="NU07">
+    	<latitude datatype="float">-20.9977531325382</latitude>
+	<longitude datatype="float">-68.643247778787</longitude>
+    </vertex>
+
+    <vertex about="NU08">
+    	<latitude datatype="float">-20.9865419169797</latitude>
+	<longitude datatype="float">-68.6351066254158</longitude>
+    </vertex>
+
+    <vertex about="NU09">
+    	<latitude datatype="float">-20.998480783548</latitude>
+	<longitude datatype="float">-68.64295771394</longitude>
+    </vertex>
+
+    <vertex about="NU10">
+    	<latitude datatype="float">-20.9977980492672</latitude>
+	<longitude datatype="float">-68.6443887005184</longitude>
+    </vertex>
+
+    <vertex about="NU11">
+    	<latitude datatype="float">-20.9951838956394</latitude>
+	<longitude datatype="float">-68.6454039274827</longitude>
+    </vertex>
+
+    <vertex about="NU12">
+    	<latitude datatype="float">-20.992147524759</latitude>
+	<longitude datatype="float">-68.644166317469</longitude>
+    </vertex>
+
+    <vertex about="NU13">
+    	<latitude datatype="float">-20.9896411712807</latitude>
+	<longitude datatype="float">-68.6402407732069</longitude>
+    </vertex>
+
+    <vertex about="NU14">
+    	<latitude datatype="float">-20.9884643529809</latitude>
+	<longitude datatype="float">-68.635783443392</longitude>
+    </vertex>
+
+    <vertex about="NU15">
+    	<latitude datatype="float">-20.9959834134156</latitude>
+	<longitude datatype="float">-68.6426386426084</longitude>
+    </vertex>
+
+    <vertex about="NU150">
+    	<latitude datatype="float">-20.9866048004003</latitude>
+	<longitude datatype="float">-68.6618119289922</longitude>
+    </vertex>
+
+    <vertex about="NU16">
+    	<latitude datatype="float">-20.9827868784353</latitude>
+	<longitude datatype="float">-68.6385970724075</longitude>
+    </vertex>
+
+    <vertex about="NU17">
+    	<latitude datatype="float">-20.9839008133145</latitude>
+	<longitude datatype="float">-68.6273812316585</longitude>
+    </vertex>
+
+    <vertex about="RF9A">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="RF9B">
+    	<latitude datatype="float">-20.9780975719276</latitude>
+	<longitude datatype="float">-68.7011447222395</longitude>
+    </vertex>
+
+    <vertex about="RF9B-4135-902-1">
+    	<latitude datatype="float">-20.9770285537774</latitude>
+	<longitude datatype="float">-68.7054376819745</longitude>
+    </vertex>
+
+    <vertex about="RF9B-4135-905-1">
+    	<latitude datatype="float">-20.9761841192722</latitude>
+	<longitude datatype="float">-68.7056310585391</longitude>
+    </vertex>
+
+    <vertex about="RI1-INPITFASE6_SME">
+    	<latitude datatype="float">-20.9734980988779</latitude>
+	<longitude datatype="float">-68.7049058964217</longitude>
+    </vertex>
+
+    <vertex about="RI10A-INPIT_EST">
+    	<latitude datatype="float">-20.9825802614818</latitude>
+	<longitude datatype="float">-68.6999747940235</longitude>
+    </vertex>
+
+    <vertex about="RI10A-INPIT_SAL">
+    	<latitude datatype="float">-20.9823287277994</latitude>
+	<longitude datatype="float">-68.6995493655813</longitude>
+    </vertex>
+
+    <vertex about="RI10A-INPIT_SBH">
+    	<latitude datatype="float">-20.9829934953887</latitude>
+	<longitude datatype="float">-68.701454124743</longitude>
+    </vertex>
+
+    <vertex about="RI10A-INPIT_SME">
+    	<latitude datatype="float">-20.9828407785101</latitude>
+	<longitude datatype="float">-68.7014347870865</longitude>
+    </vertex>
+
+    <vertex about="RI10B-INPIT_EST">
+    	<latitude datatype="float">-20.9824634779864</latitude>
+	<longitude datatype="float">-68.6997620798024</longitude>
+    </vertex>
+
+    <vertex about="RI10B-INPIT_SBL">
+    	<latitude datatype="float">-20.9826072115193</latitude>
+	<longitude datatype="float">-68.701289754663</longitude>
+    </vertex>
+
+    <vertex about="RI11-INPIT_EST">
+    	<latitude datatype="float">-20.9672546735469</latitude>
+	<longitude datatype="float">-68.7098756741329</longitude>
+    </vertex>
+
+    <vertex about="RI11-INPIT_SBL">
+    	<latitude datatype="float">-20.9668234729485</latitude>
+	<longitude datatype="float">-68.7099820312435</longitude>
+    </vertex>
+
+    <vertex about="RI8B2-INPIT_SAL">
+    	<latitude datatype="float">-20.9731118150085</latitude>
+	<longitude datatype="float">-68.7051862924405</longitude>
+    </vertex>
+
+    <vertex about="RI8B2-INPIT_SME">
+    	<latitude datatype="float">-20.9728602813261</latitude>
+	<longitude datatype="float">-68.7052733118946</longitude>
+    </vertex>
+
+    <vertex about="RI9A-INPIT_EST">
+    	<latitude datatype="float">-20.9754834182998</latitude>
+	<longitude datatype="float">-68.707168402228</longitude>
+    </vertex>
+
+    <vertex about="NR224">
+    	<latitude datatype="float">-20.9559985412593</latitude>
+	<longitude datatype="float">-68.7254134811016</longitude>
+    </vertex>
+
+    <vertex about="NR225">
+    	<latitude datatype="float">-20.9739921828969</latitude>
+	<longitude datatype="float">-68.7285848567616</longitude>
+    </vertex>
+
+    <vertex about="NR227">
+    	<latitude datatype="float">-20.9850327148853</latitude>
+	<longitude datatype="float">-68.7365132959118</longitude>
+    </vertex>
+
+    <vertex about="NR228">
+    	<latitude datatype="float">-20.963652351881</latitude>
+	<longitude datatype="float">-68.7156866399003</longitude>
+    </vertex>
+
+    <vertex about="NR229">
+    	<latitude datatype="float">-20.9603105472434</latitude>
+	<longitude datatype="float">-68.7360685298131</longitude>
+    </vertex>
+
+    <vertex about="NR230">
+    	<latitude datatype="float">-20.9718990633255</latitude>
+	<longitude datatype="float">-68.7458437151556</longitude>
+    </vertex>
+
+    <vertex about="NR231">
+    	<latitude datatype="float">-20.9810710593874</latitude>
+	<longitude datatype="float">-68.721304229103</longitude>
+    </vertex>
+
+    <vertex about="NR232">
+    	<latitude datatype="float">-20.9718182132133</latitude>
+	<longitude datatype="float">-68.738775801718</longitude>
+    </vertex>
+
+    <vertex about="NR233">
+    	<latitude datatype="float">-20.9605890309632</latitude>
+	<longitude datatype="float">-68.7372384580292</longitude>
+    </vertex>
+
+    <vertex about="NR234">
+    	<latitude datatype="float">-20.9744683002244</latitude>
+	<longitude datatype="float">-68.7204243657339</longitude>
+    </vertex>
+
+    <vertex about="NR235">
+    	<latitude datatype="float">-20.9710725955119</latitude>
+	<longitude datatype="float">-68.7264673833789</longitude>
+    </vertex>
+
+    <vertex about="NR236">
+    	<latitude datatype="float">-20.9703269778105</latitude>
+	<longitude datatype="float">-68.7271345325268</longitude>
+    </vertex>
+
+    <vertex about="NR237">
+    	<latitude datatype="float">-20.9853561153341</latitude>
+	<longitude datatype="float">-68.7321526543792</longitude>
+    </vertex>
+
+    <vertex about="NR238">
+    	<latitude datatype="float">-20.9620083995996</latitude>
+	<longitude datatype="float">-68.7179974898477</longitude>
+    </vertex>
+
+    <vertex about="NR239">
+    	<latitude datatype="float">-20.9901622053371</latitude>
+	<longitude datatype="float">-68.7344344978419</longitude>
+    </vertex>
+
+    <vertex about="NR240">
+    	<latitude datatype="float">-20.9738843827474</latitude>
+	<longitude datatype="float">-68.7481352274465</longitude>
+    </vertex>
+
+    <vertex about="NR241">
+    	<latitude datatype="float">-20.9848979646983</latitude>
+	<longitude datatype="float">-68.7345505237807</longitude>
+    </vertex>
+
+    <vertex about="US1-4210_MIX">
+    	<latitude datatype="float">-21.0009961203721</latitude>
+	<longitude datatype="float">-68.6411303054042</longitude>
+    </vertex>
+
+    <vertex about="US1-4210_SBL">
+    	<latitude datatype="float">-21.0007266199981</latitude>
+	<longitude datatype="float">-68.6401150784399</longitude>
+    </vertex>
+
+    <vertex about="US1-4330_OXA">
+    	<latitude datatype="float">-20.9874402515597</latitude>
+	<longitude datatype="float">-68.6267817643081</longitude>
+    </vertex>
+
+    <vertex about="US1-4330_OXB">
+    	<latitude datatype="float">-20.9869012508117</latitude>
+	<longitude datatype="float">-68.6259695827366</longitude>
+    </vertex>
+
+    <vertex about="US1-4335_MIX">
+    	<latitude datatype="float">-20.9848710146609</latitude>
+	<longitude datatype="float">-68.6257181932026</longitude>
+    </vertex>
+
+    <vertex about="US1-4335_OXB">
+    	<latitude datatype="float">-20.9847542311655</latitude>
+	<longitude datatype="float">-68.6266270630564</longitude>
+    </vertex>
+
+    <vertex about="US1-4365_OXB">
+    	<latitude datatype="float">-20.9875300850177</latitude>
+	<longitude datatype="float">-68.6291989713661</longitude>
+    </vertex>
+
+    <vertex about="US1-4365_SME">
+    	<latitude datatype="float">-20.9869192175033</latitude>
+	<longitude datatype="float">-68.6311520746689</longitude>
+    </vertex>
+
+    <vertex about="US1-4460_MIX">
+    	<latitude datatype="float">-20.9964774974346</latitude>
+	<longitude datatype="float">-68.6503737051939</longitude>
+    </vertex>
+
+    <vertex about="US1-CHACHACOMA_SME">
+    	<latitude datatype="float">-21.0024783724291</latitude>
+	<longitude datatype="float">-68.6320609445227</longitude>
+    </vertex>
+
+    <vertex about="US1-CORREA_OXI">
+    	<latitude datatype="float">-20.9866317504377</latitude>
+	<longitude datatype="float">-68.6322156457744</longitude>
+    </vertex>
+
+    <vertex about="US1-JOTE_SAL">
+    	<latitude datatype="float">-20.9872695679895</latitude>
+	<longitude datatype="float">-68.6250317063981</longitude>
+    </vertex>
+
+    <vertex about="US1-LLARETA_SBH">
+    	<latitude datatype="float">-20.9909707064592</latitude>
+	<longitude datatype="float">-68.6241808495137</longitude>
+    </vertex>
+
+    <vertex about="US1-PALOMA_SBH">
+    	<latitude datatype="float">-20.9863981834469</latitude>
+	<longitude datatype="float">-68.6279806990089</longitude>
+    </vertex>
+
+    <vertex about="US1-PALOMAPEBBLE_SBH">
+    	<latitude datatype="float">-20.9866227670919</latitude>
+	<longitude datatype="float">-68.6279420236959</longitude>
+    </vertex>
+
+    <vertex about="US1-PEBBLE_EST">
+    	<latitude datatype="float">-20.9797055908258</latitude>
+	<longitude datatype="float">-68.6214252334676</longitude>
+    </vertex>
+
+    <vertex about="US1-PEBBLE_SBH">
+    	<latitude datatype="float">-20.9808734257798</latitude>
+	<longitude datatype="float">-68.6221310579286</longitude>
+    </vertex>
+
+    <vertex about="RS1-PEJERREY_MIX">
+    	<latitude datatype="float">-20.9911234233378</latitude>
+	<longitude datatype="float">-68.733602978614</longitude>
+    </vertex>
+
+    <vertex about="RS1-STOCKCR04_SME">
+    	<latitude datatype="float">-20.9608944647204</latitude>
+	<longitude datatype="float">-68.7097693170224</longitude>
+    </vertex>
+
+    <vertex about="RS1-SURI_SBH">
+    	<latitude datatype="float">-20.9632121679368</latitude>
+	<longitude datatype="float">-68.7266220846306</longitude>
+    </vertex>
+
+    <vertex about="RS1-TAGUA_SAL">
+    	<latitude datatype="float">-20.9553158069785</latitude>
+	<longitude datatype="float">-68.7277630063619</longitude>
+    </vertex>
+
+    <vertex about="RS2-4550_MIX">
+    	<latitude datatype="float">-20.9590349121398</latitude>
+	<longitude datatype="float">-68.7144586987149</longitude>
+    </vertex>
+
+    <vertex about="RS2-4600_MIX">
+    	<latitude datatype="float">-20.9832809624543</latitude>
+	<longitude datatype="float">-68.7257325524332</longitude>
+    </vertex>
+
+    <vertex about="RS2-4600_OXA">
+    	<latitude datatype="float">-20.9877007685879</latitude>
+	<longitude datatype="float">-68.7329068229813</longitude>
+    </vertex>
+
+    <vertex about="RS2-4600_OXB">
+    	<latitude datatype="float">-20.9832450290711</latitude>
+	<longitude datatype="float">-68.7201923138564</longitude>
+    </vertex>
+
+    <vertex about="RS2-ALPACACORTO_MIX">
+    	<latitude datatype="float">-20.9708030951379</latitude>
+	<longitude datatype="float">-68.7219327029381</longitude>
+    </vertex>
+
+    <vertex about="RS2-FLAMENCO_SME">
+    	<latitude datatype="float">-20.9682697916223</latitude>
+	<longitude datatype="float">-68.7167792174905</longitude>
+    </vertex>
+
+    <vertex about="RS2-GAVIOTA_SAL">
+    	<latitude datatype="float">-20.9590438954856</latitude>
+	<longitude datatype="float">-68.7370257438081</longitude>
+    </vertex>
+
+    <vertex about="RS2-GOLONDRINA_SME">
+    	<latitude datatype="float">-20.9590169454482</latitude>
+	<longitude datatype="float">-68.7336899980681</longitude>
+    </vertex>
+
+    <vertex about="RS3-4600_MIX">
+    	<latitude datatype="float">-20.9854189987547</latitude>
+	<longitude datatype="float">-68.7268928118211</longitude>
+    </vertex>
+
+    <vertex about="RS3-4600_OXB">
+    	<latitude datatype="float">-20.9830114620803</latitude>
+	<longitude datatype="float">-68.7250170591441</longitude>
+    </vertex>
+
+    <vertex about="RS3-CARPA_OXA">
+    	<latitude datatype="float">-20.9852932319135</latitude>
+	<longitude datatype="float">-68.7376638864714</longitude>
+    </vertex>
+
+    <vertex about="RS3-JUREL_MIX">
+    	<latitude datatype="float">-20.9872605846437</latitude>
+	<longitude datatype="float">-68.7384180550735</longitude>
+    </vertex>
+
+    <vertex about="BOT">
+    	<latitude datatype="float">-20.9676050240331</latitude>
+	<longitude datatype="float">-68.7285848567616</longitude>
+    </vertex>
+
+    <vertex about="C-ENTRENAMIENTO">
+    	<latitude datatype="float">-20.9884823196725</latitude>
+	<longitude datatype="float">-68.7293390253637</longitude>
+    </vertex>
+
+    <vertex about="CAPELLA">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="CAPELLAINFERIOR">
+    	<latitude datatype="float">-20.9805410419852</latitude>
+	<longitude datatype="float">-68.706085493466</longitude>
+    </vertex>
+
+    <vertex about="CB1-ALTOCAPELLA_EST">
+    	<latitude datatype="float">-20.974082016355</latitude>
+	<longitude datatype="float">-68.7325974204779</longitude>
+    </vertex>
+
+    <vertex about="CO01">
+    	<latitude datatype="float">-20.9866137837461</latitude>
+	<longitude datatype="float">-68.6328924637507</longitude>
+    </vertex>
+
+    <vertex about="CS01">
+    	<latitude datatype="float">-20.9871168511109</latitude>
+	<longitude datatype="float">-68.6334339181316</longitude>
+    </vertex>
+
+    <vertex about="CS03">
+    	<latitude datatype="float">-20.9616400824218</latitude>
+	<longitude datatype="float">-68.7092085249849</longitude>
+    </vertex>
+
+    <vertex about="ESTAC_4600">
+    	<latitude datatype="float">-20.9825892448277</latitude>
+	<longitude datatype="float">-68.7234120336576</longitude>
+    </vertex>
+
+    <vertex about="ESTACIONAMIENTO">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="HUIESTE">
+    	<latitude datatype="float">-20.9646584866106</latitude>
+	<longitude datatype="float">-68.6727860490354</longitude>
+    </vertex>
+
+    <vertex about="HUINORTE">
+    	<latitude datatype="float">-21.7044459965952</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="HUISUR">
+    	<latitude datatype="float">-21.0217117157871</latitude>
+	<longitude datatype="float">-69.0041174548857</longitude>
+    </vertex>
+
+    <vertex about="NAVE01">
+    	<latitude datatype="float">-20.9589630453734</latitude>
+	<longitude datatype="float">-68.7083673369288</longitude>
+    </vertex>
+
+    <vertex about="NAVE02">
+    	<latitude datatype="float">-20.958891178607</latitude>
+	<longitude datatype="float">-68.7083093239594</longitude>
+    </vertex>
+
+    <vertex about="NAVE03">
+    	<latitude datatype="float">-20.9588372785322</latitude>
+	<longitude datatype="float">-68.7082609798182</longitude>
+    </vertex>
+
+    <vertex about="NAVE04">
+    	<latitude datatype="float">-20.9587654117658</latitude>
+	<longitude datatype="float">-68.7081932980206</longitude>
+    </vertex>
+
+    <vertex about="NR242">
+    	<latitude datatype="float">-20.9643081361244</latitude>
+	<longitude datatype="float">-68.7159573670908</longitude>
+    </vertex>
+
+    <vertex about="NR243">
+    	<latitude datatype="float">-20.9796876241342</latitude>
+	<longitude datatype="float">-68.7268928118211</longitude>
+    </vertex>
+
+    <vertex about="NR244">
+    	<latitude datatype="float">-20.9657005547235</latitude>
+	<longitude datatype="float">-68.7151065102064</longitude>
+    </vertex>
+
+    <vertex about="NR245">
+    	<latitude datatype="float">-20.9546061226603</latitude>
+	<longitude datatype="float">-68.7204533722186</longitude>
+    </vertex>
+
+    <vertex about="NR246">
+    	<latitude datatype="float">-20.9816010767896</latitude>
+	<longitude datatype="float">-68.7250944097699</longitude>
+    </vertex>
+
+    <vertex about="NR247">
+    	<latitude datatype="float">-20.9703629111937</latitude>
+	<longitude datatype="float">-68.7305572977209</longitude>
+    </vertex>
+
+    <vertex about="NR248">
+    	<latitude datatype="float">-20.965314270854</latitude>
+	<longitude datatype="float">-68.7149614777829</longitude>
+    </vertex>
+
+    <vertex about="NR249">
+    	<latitude datatype="float">-20.9657544547983</latitude>
+	<longitude datatype="float">-68.7120801669698</longitude>
+    </vertex>
+
+    <vertex about="NR250">
+    	<latitude datatype="float">-20.9651885040128</latitude>
+	<longitude datatype="float">-68.7141106208985</longitude>
+    </vertex>
+
+    <vertex about="NR251">
+    	<latitude datatype="float">-20.9821849942666</latitude>
+	<longitude datatype="float">-68.7275309544844</longitude>
+    </vertex>
+
+    <vertex about="NR252">
+    	<latitude datatype="float">-20.9613346486646</latitude>
+	<longitude datatype="float">-68.711712751497</longitude>
+    </vertex>
+
+    <vertex about="NR253">
+    	<latitude datatype="float">-20.9833258791833</latitude>
+	<longitude datatype="float">-68.7284011490252</longitude>
+    </vertex>
+
+    <vertex about="NR254">
+    	<latitude datatype="float">-20.960059013561</latitude>
+	<longitude datatype="float">-68.7127859914307</longitude>
+    </vertex>
+
+    <vertex about="NR255">
+    	<latitude datatype="float">-20.9824455112948</latitude>
+	<longitude datatype="float">-68.7302092199046</longitude>
+    </vertex>
+
+    <vertex about="NR256">
+    	<latitude datatype="float">-20.9592864458222</latitude>
+	<longitude datatype="float">-68.7293003500508</longitude>
+    </vertex>
+
+    <vertex about="NR257">
+    	<latitude datatype="float">-20.9575346933912</latitude>
+	<longitude datatype="float">-68.72651572752</longitude>
+    </vertex>
+
+    <vertex about="NR258">
+    	<latitude datatype="float">-20.9640206690588</latitude>
+	<longitude datatype="float">-68.7145553869972</longitude>
+    </vertex>
+
+    <vertex about="NR600">
+    	<latitude datatype="float">-20.9707312283715</latitude>
+	<longitude datatype="float">-68.7016281636511</longitude>
+    </vertex>
+
+    <vertex about="NR601">
+    	<latitude datatype="float">-20.9697520436793</latitude>
+	<longitude datatype="float">-68.7035909357822</longitude>
+    </vertex>
+
+    <vertex about="NR603">
+    	<latitude datatype="float">-20.9697071269503</latitude>
+	<longitude datatype="float">-68.7337383422092</longitude>
+    </vertex>
+
+    <vertex about="NR604">
+    	<latitude datatype="float">-20.9702820610815</latitude>
+	<longitude datatype="float">-68.734105757682</longitude>
+    </vertex>
+
+    <vertex about="NR605">
+    	<latitude datatype="float">-20.9728063812513</latitude>
+	<longitude datatype="float">-68.7056213897109</longitude>
+    </vertex>
+
+    <vertex about="NR606">
+    	<latitude datatype="float">-20.9714858294187</latitude>
+	<longitude datatype="float">-68.7045964939183</longitude>
+    </vertex>
+
+    <vertex about="NR607">
+    	<latitude datatype="float">-20.9650537538258</latitude>
+	<longitude datatype="float">-68.7095952781142</longitude>
+    </vertex>
+
+    <vertex about="NR608">
+    	<latitude datatype="float">-20.9649639203678</latitude>
+	<longitude datatype="float">-68.7066752919882</longitude>
+    </vertex>
+
+    <vertex about="NR610">
+    	<latitude datatype="float">-20.9655927545739</latitude>
+	<longitude datatype="float">-68.7050896041581</longitude>
+    </vertex>
+
+    <vertex about="NR611">
+    	<latitude datatype="float">-20.9751869678884</latitude>
+	<longitude datatype="float">-68.7023049816274</longitude>
+    </vertex>
+
+    <vertex about="NR613">
+    	<latitude datatype="float">-20.9731028316627</latitude>
+	<longitude datatype="float">-68.7027787542107</longitude>
+    </vertex>
+
+    <vertex about="NR614">
+    	<latitude datatype="float">-20.9751330678136</latitude>
+	<longitude datatype="float">-68.7041807343044</longitude>
+    </vertex>
+
+    <vertex about="NR617">
+    	<latitude datatype="float">-20.9720697468957</latitude>
+	<longitude datatype="float">-68.703291202107</longitude>
+    </vertex>
+
+    <vertex about="NR618">
+    	<latitude datatype="float">-20.9729051980551</latitude>
+	<longitude datatype="float">-68.701956903811</longitude>
+    </vertex>
+
+    <vertex about="NR620">
+    	<latitude datatype="float">-20.9744233834954</latitude>
+	<longitude datatype="float">-68.7004002224657</longitude>
+    </vertex>
+
+    <vertex about="NR622">
+    	<latitude datatype="float">-20.9758876688608</latitude>
+	<longitude datatype="float">-68.6993946643296</longitude>
+    </vertex>
+
+    <vertex about="NR633">
+    	<latitude datatype="float">-20.97610326916</latitude>
+	<longitude datatype="float">-68.6968130871917</longitude>
+    </vertex>
+
+    <vertex about="NR707">
+    	<latitude datatype="float">-21.0096830157608</latitude>
+	<longitude datatype="float">-68.7100013689</longitude>
+    </vertex>
+
+    <vertex about="NR708">
+    	<latitude datatype="float">-21.0073024291237</latitude>
+	<longitude datatype="float">-68.6995300279248</longitude>
+    </vertex>
+
+    <vertex about="NR709">
+    	<latitude datatype="float">-21.0044816585425</latitude>
+	<longitude datatype="float">-68.6969387819587</longitude>
+    </vertex>
+
+    <vertex about="NR710">
+    	<latitude datatype="float">-20.9879523022703</latitude>
+	<longitude datatype="float">-68.689029680465</longitude>
+    </vertex>
+
+    <vertex about="NR711">
+    	<latitude datatype="float">-20.9850506815769</latitude>
+	<longitude datatype="float">-68.6871926031009</longitude>
+    </vertex>
+
+    <vertex about="NR712">
+    	<latitude datatype="float">-20.9832540124169</latitude>
+	<longitude datatype="float">-68.6849687726076</longitude>
+    </vertex>
+
+    <vertex about="NR713">
+    	<latitude datatype="float">-20.9813764931446</latitude>
+	<longitude datatype="float">-68.6815556762417</longitude>
+    </vertex>
+
+    <vertex about="NR801">
+    	<latitude datatype="float">-20.9696891602587</latitude>
+	<longitude datatype="float">-68.7075938306702</longitude>
+    </vertex>
+
+    <vertex about="NR802">
+    	<latitude datatype="float">-20.9706952949883</latitude>
+	<longitude datatype="float">-68.7090924990462</longitude>
+    </vertex>
+
+    <vertex about="NR803">
+    	<latitude datatype="float">-20.9708659785585</latitude>
+	<longitude datatype="float">-68.7082803174747</longitude>
+    </vertex>
+
+    <vertex about="NR804">
+    	<latitude datatype="float">-20.9724200973819</latitude>
+	<longitude datatype="float">-68.7124185759579</longitude>
+    </vertex>
+
+    <vertex about="NR805">
+    	<latitude datatype="float">-20.9702910444273</latitude>
+	<longitude datatype="float">-68.7110359335208</longitude>
+    </vertex>
+
+    <vertex about="NR806">
+    	<latitude datatype="float">-20.9708210618295</latitude>
+	<longitude datatype="float">-68.7119834786875</longitude>
+    </vertex>
+
+    <vertex about="NR807">
+    	<latitude datatype="float">-20.9734801321863</latitude>
+	<longitude datatype="float">-68.712505595412</longitude>
+    </vertex>
+
+    <vertex about="NR808">
+    	<latitude datatype="float">-20.9721775470453</latitude>
+	<longitude datatype="float">-68.7101560701517</longitude>
+    </vertex>
+
+    <vertex about="NR810">
+    	<latitude datatype="float">-20.9671378900515</latitude>
+	<longitude datatype="float">-68.708125616223</longitude>
+    </vertex>
+
+    <vertex about="NR811">
+    	<latitude datatype="float">-20.9670390732477</latitude>
+	<longitude datatype="float">-68.7063272141718</longitude>
+    </vertex>
+
+    <vertex about="NU35">
+    	<latitude datatype="float">-20.9889764036915</latitude>
+	<longitude datatype="float">-68.654086535235</longitude>
+    </vertex>
+
+    <vertex about="NU36">
+    	<latitude datatype="float">-20.9901083052623</latitude>
+	<longitude datatype="float">-68.6542702429714</longitude>
+    </vertex>
+
+    <vertex about="NU37">
+    	<latitude datatype="float">-20.9960373134904</latitude>
+	<longitude datatype="float">-68.6561169891636</longitude>
+    </vertex>
+
+    <vertex about="NU38">
+    	<latitude datatype="float">-20.996369697285</latitude>
+	<longitude datatype="float">-68.6517756852875</longitude>
+    </vertex>
+
+    <vertex about="NU39">
+    	<latitude datatype="float">-20.9886260532053</latitude>
+	<longitude datatype="float">-68.6335499440704</longitude>
+    </vertex>
+
+    <vertex about="NU40">
+    	<latitude datatype="float">-20.9883026527565</latitude>
+	<longitude datatype="float">-68.6340817296232</longitude>
+    </vertex>
+
+    <vertex about="NU41">
+    	<latitude datatype="float">-20.9875750017467</latitude>
+	<longitude datatype="float">-68.6337916647762</longitude>
+    </vertex>
+
+    <vertex about="NU42">
+    	<latitude datatype="float">-20.9926775421612</latitude>
+	<longitude datatype="float">-68.6267140825105</longitude>
+    </vertex>
+
+    <vertex about="NU43">
+    	<latitude datatype="float">-20.995965446724</latitude>
+	<longitude datatype="float">-68.6266850760258</longitude>
+    </vertex>
+
+    <vertex about="NU44">
+    	<latitude datatype="float">-20.9887518200465</latitude>
+	<longitude datatype="float">-68.6351646383851</longitude>
+    </vertex>
+
+    <vertex about="NU45">
+    	<latitude datatype="float">-20.9937106269282</latitude>
+	<longitude datatype="float">-68.6412269936865</longitude>
+    </vertex>
+
+    <vertex about="NU46">
+    	<latitude datatype="float">-20.9846284643243</latitude>
+	<longitude datatype="float">-68.6311037305278</longitude>
+    </vertex>
+
+    <vertex about="NU47">
+    	<latitude datatype="float">-20.9827419617063</latitude>
+	<longitude datatype="float">-68.6219183437075</longitude>
+    </vertex>
+
+    <vertex about="NU48">
+    	<latitude datatype="float">-20.9986514671182</latitude>
+	<longitude datatype="float">-68.6263950111788</longitude>
+    </vertex>
+
+    <vertex about="NU49">
+    	<latitude datatype="float">-20.9878984021955</latitude>
+	<longitude datatype="float">-68.6165424752105</longitude>
+    </vertex>
+
+    <vertex about="NU50">
+    	<latitude datatype="float">-20.9863981834469</latitude>
+	<longitude datatype="float">-68.6165134687258</longitude>
+    </vertex>
+
+    <vertex about="NU51">
+    	<latitude datatype="float">-20.9809273258546</latitude>
+	<longitude datatype="float">-68.6183312084334</longitude>
+    </vertex>
+</points>

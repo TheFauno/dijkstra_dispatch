@@ -9,18 +9,18 @@ def countEdges(shovelName, edges):
         return possibleEdges
 
 def getStationsPairs():
-        loads = pd.read_csv("../files/datos_cargas.csv")
-        unloads = pd.read_csv("../files/datos_descargas.csv")
+        loads = pd.read_csv("files/datos_cargas.csv")
+        unloads = pd.read_csv("files/datos_descargas.csv")
         loads["key"] = 0
         unloads["key"] = 0
         stationsPairs = pd.merge(loads, unloads, on="key")
         stationsPairs = stationsPairs.loc[:, ["PositionedAt_x", "PositionedAt_y"]]
         stationsPairs.columns = ["shovels", "unload"]
-        return tuple(stationsPairs.values.tolist())
+        return stationsPairs.values.tolist()
 
 def readEdges():
-        edges = ()
-        tree = ET.parse('../files/caminos_info.xml')
+        edges = []
+        tree = ET.parse("files/caminos_info.xml")
         root = tree.getroot()
 
         for road in root:
@@ -29,16 +29,17 @@ def readEdges():
             edge["startVertex"] = road.find("startingAt").attrib["resource"].replace("-","_").replace(".","")
             edge["endVertex"] = road.find("directedTo").attrib["resource"].replace("-","_").replace(".","")
             edge["distance"] = road.find("edgeLength").text
-            edge["visited"] = "No"
-            edge["predecessor"] = ""
-            edges = edges + (edge,)
-        
+            #edge["visited"] = "No"
+            #edge["predecessor"] = ""
+            edges.append(edge)        
         return edges
 
-def findShortestPathDistance(stationPair, edge):
-        # stationPair -> list(shove, unload)
-        # edge -> dict{name, startVertex, endVertex, distance, visited, predecessor}
+def readVertexs():
+        vertexs = ()
+        tree = ET.parse('files/nodos_info.xml')
+        root = tree.getroot()
 
-        
-
-        return tuple()
+        for vertex in root:
+            vertexs = []
+            vertexs.append(vertex.attrib["about"].replace("-","_").replace(".",""))        
+        return vertexs
