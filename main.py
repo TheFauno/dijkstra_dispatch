@@ -1,6 +1,6 @@
 from modules import edges as ed
 import networkx as nx
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import pandas as pd
 
 edgesList = ed.readEdges()
@@ -23,17 +23,17 @@ distances = []
 for pair in pairs:
     if (nx.has_path(graph, pair[0], pair[1])):
 
-        unloads.append(pair[0])
-        loads.append(pair[1])
+        loads.append(pair[0])
+        unloads.append(pair[1])
         distances.append(nx.shortest_path_length(graph, pair[0], pair[1], "weight"))
 data = {
-    "distances": distances,
     "load": loads,
-    "unloads": unloads
+    "unloads": unloads,
+    "distances": distances,
 }
 
 mydataframe = pd.DataFrame.from_dict(data)
 mydataframe.to_csv("files/shortestPathsDistances.csv", encoding="utf-8", index=False)
 
-nx.draw(graph)
-plt.show(graph)
+#nx.draw(graph)
+#plt.show(graph)
