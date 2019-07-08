@@ -20,16 +20,27 @@ pairs = ed.getStationsPairs()
 unloads = []
 loads = []
 distances = []
+#lee desde carga a descarga
 for pair in pairs:
     if (nx.has_path(graph, pair[0], pair[1])):
 
         loads.append(pair[0])
         unloads.append(pair[1])
         distances.append(nx.shortest_path_length(graph, pair[0], pair[1], "weight"))
+
+#lee desde descarga a carga
+pairs = ed.getStationsPairs1()
+for pair in pairs:
+    if (nx.has_path(graph, pair[0], pair[1])):
+
+        loads.append(pair[0])
+        unloads.append(pair[1])
+        distances.append(nx.shortest_path_length(graph, pair[0], pair[1], "weight"))
+
 data = {
-    "load": loads,
-    "unloads": unloads,
-    "distances": distances,
+    "start": loads,
+    "end": unloads,
+    "distances": distances
 }
 
 mydataframe = pd.DataFrame.from_dict(data)

@@ -18,6 +18,16 @@ def getStationsPairs():
         stationsPairs.columns = ["shovels", "unload"]
         return stationsPairs.values.tolist()
 
+def getStationsPairs1():
+        loads = pd.read_csv("files/datos_cargas.csv")
+        unloads = pd.read_csv("files/datos_descargas.csv")
+        loads["key"] = 0
+        unloads["key"] = 0
+        stationsPairs = pd.merge(unloads, loads, on="key")
+        stationsPairs = stationsPairs.loc[:, ["PositionedAt_x", "PositionedAt_y"]]
+        stationsPairs.columns = ["unload", "shovels"]
+        return stationsPairs.values.tolist()
+
 def readEdges():
         edges = []
         tree = ET.parse("files/caminos_info.xml")
